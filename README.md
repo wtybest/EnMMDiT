@@ -2,7 +2,7 @@
 
 > This repository hosts the official PyTorch implementation of the paper: "**Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation**".
 
-Our approach can effectively mitigate the subject neglect or mixing issues suffered by MMDiT-Based Text-to-Image Models for similar subject generation.
+Our approach can effectively mitigate the subject neglect or mixing issues suffered by MMDiT-based text-to-image models for similar subject generation.
 
 <img src='assets/teaser.jpg'>
 
