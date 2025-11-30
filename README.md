@@ -4,7 +4,7 @@
 
 Our approach can effectively mitigate the subject neglect or mixing issues suffered by MMDiT-Based Text-to-Image Models for similar subject generation.
 
-<img src='assets/teaser.jpg'>
+<img src='assets/teaser.png'>
 
 Tianyi Wei<sup>1</sup>,
 Dongdong Chen<sup>2</sup>,
