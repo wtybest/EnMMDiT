@@ -1,0 +1,7353 @@
+[
+  {
+    "prompt": "Hyper-realistic digital painting of a massive roaring grizzly bear in armor stalking a small frightened baby panda hiding behind a stone pillar.",
+    "subject": [
+      "bear",
+      "panda"
+    ],
+    "count": {
+      "bear": 1,
+      "panda": 1
+    },
+    "attribution": {
+      "bear": [
+        "massive roaring grizzly",
+        "in armor"
+      ],
+      "panda": [
+        "small frightened baby"
+      ]
+    },
+    "position": "Bear stalking Panda"
+  },
+  {
+    "prompt": "A vintage 1950s postcard drawing showing a cheerful panda enjoying bamboo next to a sleepy brown bear resting in a meadow.",
+    "subject": [
+      "bear",
+      "panda"
+    ],
+    "count": {
+      "bear": 1,
+      "panda": 1
+    },
+    "attribution": {
+      "bear": [
+        "sleepy",
+        "brown"
+      ],
+      "panda": [
+        "cheerful"
+      ]
+    },
+    "position": "Panda next to Bear"
+  },
+  {
+    "prompt": "Cubist painting of a fierce multi-limbed cave bear dominating the foreground, and a small stylized panda cub in the background.",
+    "subject": [
+      "bear",
+      "panda"
+    ],
+    "count": {
+      "bear": 1,
+      "panda": 1
+    },
+    "attribution": {
+      "bear": [
+        "cubist",
+        "fierce",
+        "multi-limbed",
+        "cave"
+      ],
+      "panda": [
+        "small",
+        "stylized"
+      ]
+    },
+    "position": "Bear dominating foreground, Panda cub in background."
+  },
+  {
+    "prompt": "A fluffy black and white panda playfully wrestling with a small black bear cub near a muddy riverbank, high detail photograph.",
+    "subject": [
+      "panda",
+      "bear"
+    ],
+    "count": {
+      "panda": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bear": [
+        "small black"
+      ],
+      "panda": [
+        "fluffy black and white",
+        "playfully"
+      ]
+    },
+    "position": "Panda wrestling with Bear cub"
+  },
+  {
+    "prompt": "A neon sign installation of a peaceful bear holding the hand of a panda, against a dark, rainy cyberpunk cityscape.",
+    "subject": [
+      "bear",
+      "panda"
+    ],
+    "count": {
+      "bear": 1,
+      "panda": 1
+    },
+    "attribution": {
+      "bear": [
+        "peaceful"
+      ],
+      "panda": []
+    },
+    "position": "Bear holding the hand of Panda"
+  },
+  {
+    "prompt": "A sleek chrome scooter parked next to a vintage racing bike, rendered in a cyberpunk city street at night.",
+    "subject": [
+      "bike",
+      "scooter"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1
+    },
+    "attribution": {
+      "bike": [
+        "vintage racing"
+      ],
+      "scooter": [
+        "sleek chrome"
+      ]
+    },
+    "position": "scooter parked next to bike"
+  },
+  {
+    "prompt": "Oil painting texture of a giant intricately carved wooden bike standing on a hill, as a small futuristic hovering scooter speeds past.",
+    "subject": [
+      "bike",
+      "scooter"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1
+    },
+    "attribution": {
+      "bike": [
+        "giant",
+        "intricately carved wooden"
+      ],
+      "scooter": [
+        "small",
+        "futuristic hovering"
+      ]
+    },
+    "position": "Scooter speeds past Bike."
+  },
+  {
+    "prompt": "A damaged yellow delivery scooter crashed into a black mountain bike on a wet pavement.",
+    "subject": [
+      "bike",
+      "scooter"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1
+    },
+    "attribution": {
+      "bike": [
+        "black mountain"
+      ],
+      "scooter": [
+        "damaged yellow delivery"
+      ]
+    },
+    "position": "scooter crashed into bike"
+  },
+  {
+    "prompt": "The spirit of transportation, symbolized by an ethereal bike gracefully leaning against a modern metallic scooter.",
+    "subject": [
+      "bike",
+      "scooter"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1
+    },
+    "attribution": {
+      "bike": [
+        "ethereal"
+      ],
+      "scooter": [
+        "modern metallic"
+      ]
+    },
+    "position": "bike leaning against scooter"
+  },
+  {
+    "prompt": "A bright red children's scooter abandoned near a simple touring bike at the entrance of a park.",
+    "subject": [
+      "bike",
+      "scooter"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1
+    },
+    "attribution": {
+      "bike": [
+        "simple touring"
+      ],
+      "scooter": [
+        "bright red children's"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A massive, gentle grizzly bear, wearing a rusted iron crown, carefully holds a tiny bird perched on its nose, rendered as a highly detailed Renaissance oil painting.",
+    "subject": [
+      "bird",
+      "bear"
+    ],
+    "count": {
+      "bird": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bird": [
+        "tiny"
+      ],
+      "bear": [
+        "massive",
+        "gentle grizzly",
+        "wearing a rusted iron crown"
+      ]
+    },
+    "position": "bird perched on bear"
+  },
+  {
+    "prompt": "A shaggy brown bear sprinting through a dense pine forest, captured in a dramatic cinematic photograph, as a small black bird takes flight high above the canopy.",
+    "subject": [
+      "bird",
+      "bear"
+    ],
+    "count": {
+      "bird": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bird": [
+        "small",
+        "black"
+      ],
+      "bear": [
+        "shaggy brown"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A fierce black bear aggressively chasing a brightly plumed tropical bird through dense jungle undergrowth, presented as a detailed 19th-century scientific etching.",
+    "subject": [
+      "bird",
+      "bear"
+    ],
+    "count": {
+      "bird": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bird": [
+        "brightly plumed",
+        "tropical"
+      ],
+      "bear": [
+        "fierce",
+        "black",
+        "aggressively chasing"
+      ]
+    },
+    "position": "bear chasing bird"
+  },
+  {
+    "prompt": "A highly textural conceptual collage featuring a smiling cartoon bear made of woven fabric fragments and a geometrically abstract bird figure rendered in metallic foil, cinematic lighting.",
+    "subject": [
+      "bird",
+      "bear"
+    ],
+    "count": {
+      "bird": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bird": [
+        "geometrically abstract",
+        "rendered in metallic foil"
+      ],
+      "bear": [
+        "highly textural",
+        "smiling cartoon",
+        "made of woven fabric fragments"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A terrifying image depicting a large, shadowy monster bear standing in deep fog, crushing a small defenseless bird within its massive claw, hyperrealistic horror photograph.",
+    "subject": [
+      "bird",
+      "bear"
+    ],
+    "count": {
+      "bird": 1,
+      "bear": 1
+    },
+    "attribution": {
+      "bird": [
+        "small",
+        "defenseless"
+      ],
+      "bear": [
+        "large",
+        "shadowy monster"
+      ]
+    },
+    "position": "bear crushing bird"
+  },
+  {
+    "prompt": "A bright red 1950s convertible car speeding down a desert highway, narrowly being passed by a massive, futuristic black matte touring motorcycle.",
+    "subject": [
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "car": [
+        "bright red",
+        "1950s convertible"
+      ],
+      "motorcycle": [
+        "massive",
+        "futuristic",
+        "black matte",
+        "touring"
+      ]
+    },
+    "position": "car being passed by motorcycle"
+  },
+  {
+    "prompt": "A pastel-colored oil painting depicting a sleek, blue car hovering high above a quiet, silver motorcycle in a cloudy void.",
+    "subject": [
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "car": [
+        "sleek",
+        "blue"
+      ],
+      "motorcycle": [
+        "quiet",
+        "silver"
+      ]
+    },
+    "position": "car above motorcycle"
+  },
+  {
+    "prompt": "Photorealistic closeup of a heavily wrecked, rusted green sedan car with a pristine, chrome-plated cruiser motorcycle resting entirely inside the shattered driver's compartment.",
+    "subject": [
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "car": [
+        "heavily wrecked",
+        "rusted green sedan"
+      ],
+      "motorcycle": [
+        "pristine",
+        "chrome-plated cruiser"
+      ]
+    },
+    "position": "motorcycle resting inside car"
+  },
+  {
+    "prompt": "A grainy snapshot taken from afar showing an abandoned car and a heavy duty motorcycle situated beneath a crumbling highway overpass.",
+    "subject": [
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "car": [
+        "abandoned"
+      ],
+      "motorcycle": [
+        "heavy duty"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A minimalist ink drawing showing a massive vintage black cab car being completely surrounded by three identical, small yellow dirt motorcycles.",
+    "subject": [
+      "car",
+      "motorcycles"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 3
+    },
+    "attribution": {
+      "car": [
+        "massive",
+        "vintage black cab"
+      ],
+      "motorcycle": [
+        "identical",
+        "small yellow dirt"
+      ]
+    },
+    "position": "car being surrounded by motorcycles"
+  },
+  {
+    "prompt": "A cinematic, high-resolution photograph of a nervous, fluffy Siamese cat peering out from behind a massive, stoic Rottweiler, captured at twilight.",
+    "subject": [
+      "cat",
+      "Rottweiler"
+    ],
+    "count": {
+      "cat": 1,
+      "dog": 1
+    },
+    "attribution": {
+      "cat": [
+        "nervous",
+        "fluffy",
+        "Siamese"
+      ],
+      "Rottweiler": [
+        "massive",
+        "stoic"
+      ]
+    },
+    "position": "cat peering out from behind dog"
+  },
+  {
+    "prompt": "A beautiful watercolor painting depicting a cat and a dog peacefully resting side-by-side in a sunlit field.",
+    "subject": [
+      "cat",
+      "dog"
+    ],
+    "count": {
+      "cat": 1,
+      "dog": 1
+    },
+    "attribution": {
+      "cat": [],
+      "dog": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Neo-futurist digital art showing a swift, neon-glowing cybernetic cat aggressively chasing an ethereal, translucent ghost dog through a rain-slicked metropolis.",
+    "subject": [
+      "cat",
+      "dog"
+    ],
+    "count": {
+      "cat": 1,
+      "dog": 1
+    },
+    "attribution": {
+      "cat": [
+        "swift",
+        "neon-glowing",
+        "cybernetic",
+        "aggressively"
+      ],
+      "dog": [
+        "ethereal",
+        "translucent",
+        "ghost"
+      ]
+    },
+    "position": "cat chasing dog"
+  },
+  {
+    "prompt": "Vintage studio portrait of an old, grumpy ginger cat wearing a tiny hat, which is gently held by a playful Golden Retriever puppy.",
+    "subject": [
+      "cat",
+      "puppy"
+    ],
+    "count": {
+      "cat": 1,
+      "puppy": 1
+    },
+    "attribution": {
+      "cat": [
+        "old",
+        "grumpy",
+        "ginger"
+      ],
+      "puppy": [
+        "playful",
+        "Golden Retriever"
+      ]
+    },
+    "position": "hat worn by cat is held by puppy"
+  },
+  {
+    "prompt": "An epic fantasy illustration, wide shot, of a majestic cat and a loyal dog walking together across a desolate mountain ridge toward the viewer.",
+    "subject": [
+      "cat",
+      "dog"
+    ],
+    "count": {
+      "cat": 1,
+      "dog": 1
+    },
+    "attribution": {
+      "cat": [
+        "majestic"
+      ],
+      "dog": [
+        "loyal"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A massive Siberian tiger observing a playful Siamese cat sleeping right on its immense paw. Digital painting, dramatic lighting.",
+    "subject": [
+      "tiger",
+      "cat"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "cat": [
+        "playful",
+        "Siamese"
+      ],
+      "tiger": [
+        "massive",
+        "Siberian",
+        "immense"
+      ]
+    },
+    "position": "Cat on Tiger"
+  },
+  {
+    "prompt": "A stray cat fleeing quickly through a dense, tropical jungle while a Bengal tiger stalks nearby, photorealistic.",
+    "subject": [
+      "cat",
+      "tiger"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "cat": [
+        "stray"
+      ],
+      "tiger": [
+        "Bengal"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An old monochrome etching depicting a cat and a tiger staring directly at the viewer, highly detailed.",
+    "subject": [
+      "cat",
+      "tiger"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "cat": [],
+      "tiger": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A surrealist oil painting showing a fierce orange tiger roaring impossibly through the open mouth of a startled domestic cat, rendered in vibrant reds and blues.",
+    "subject": [
+      "cat",
+      "tiger"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "cat": [
+        "startled",
+        "domestic"
+      ],
+      "tiger": [
+        "fierce",
+        "orange"
+      ]
+    },
+    "position": "Tiger through Cat"
+  },
+  {
+    "prompt": "A mischievous black cat is desperately trying to steal a shiny toy that a huge, amused tiger is playfully holding in its paws. Studio photography, wide angle lens.",
+    "subject": [
+      "cat",
+      "tiger"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "cat": [
+        "mischievous",
+        "black"
+      ],
+      "tiger": [
+        "huge",
+        "amused"
+      ]
+    },
+    "position": "Tiger holding object near Cat"
+  },
+  {
+    "prompt": "A rugged, fast deer is desperately trying to outrun a galloping llama through a dust cloud at sunset.",
+    "subject": [
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "rugged",
+        "fast"
+      ],
+      "llama": [
+        "galloping"
+      ]
+    },
+    "position": "deer trying to outrun a llama"
+  },
+  {
+    "prompt": "Epic digital painting of a glowing ethereal deer standing next to a majestic, armored llama, rendered in high fantasy style by Greg Rutkowski.",
+    "subject": [
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "glowing",
+        "ethereal"
+      ],
+      "llama": [
+        "majestic",
+        "armored"
+      ]
+    },
+    "position": "deer standing next to a llama"
+  },
+  {
+    "prompt": "A monochrome photograph showing a sad wet deer and a nervous llama looking away from the camera in a rainstorm.",
+    "subject": [
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "sad",
+        "wet"
+      ],
+      "llama": [
+        "nervous"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A surrealist watercolor illustration where a tiny, iridescent deer is being held carefully in the mouth of a gigantic, sleeping llama.",
+    "subject": [
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "tiny",
+        "iridescent"
+      ],
+      "llama": [
+        "gigantic",
+        "sleeping"
+      ]
+    },
+    "position": "deer is being held carefully in the mouth of a llama"
+  },
+  {
+    "prompt": "A charcoal sketch featuring a relaxed llama observing a deer walking closely behind it in a forest clearing.",
+    "subject": [
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "walking"
+      ],
+      "llama": [
+        "relaxed"
+      ]
+    },
+    "position": "deer walking closely behind it"
+  },
+  {
+    "prompt": "A massive, shaggy Clydesdale horse grazing peacefully, while a tiny, frantic chihuahua dog barks relentlessly at its enormous hoof. Hyperrealistic illustration, golden hour lighting.",
+    "subject": [
+      "dog",
+      "horse"
+    ],
+    "count": {
+      "dog": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "dog": [
+        "tiny",
+        "frantic",
+        "chihuahua"
+      ],
+      "horse": [
+        "massive",
+        "shaggy",
+        "Clydesdale"
+      ]
+    },
+    "position": "dog barks at horse"
+  },
+  {
+    "prompt": "A spectral spirit dog manifesting beside a lone Arabian horse standing in a deep fog. Watercolor painting, minimalist style.",
+    "subject": [
+      "dog",
+      "horse"
+    ],
+    "count": {
+      "dog": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "dog": [
+        "spectral",
+        "spirit"
+      ],
+      "horse": [
+        "lone",
+        "Arabian"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A majestic horse wearing armor, carrying a small, sleepy terrier dog in a saddle pouch. Baroque oil painting, dark fantasy setting.",
+    "subject": [
+      "dog",
+      "horse"
+    ],
+    "count": {
+      "dog": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "dog": [
+        "small",
+        "sleepy",
+        "terrier"
+      ],
+      "horse": [
+        "majestic",
+        "wearing armor"
+      ]
+    },
+    "position": "horse carrying dog"
+  },
+  {
+    "prompt": "A dog playfully chasing a horse through a meadow, 8k photography.",
+    "subject": [
+      "dog",
+      "horse"
+    ],
+    "count": {
+      "dog": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "dog": [],
+      "horse": []
+    },
+    "position": "dog chasing horse"
+  },
+  {
+    "prompt": "A sculptural marble horse head resting on a pedestal, guarded by two fierce dogs watching over it. Cold studio lighting, photorealistic rendering.",
+    "subject": [
+      "dogs",
+      "horse"
+    ],
+    "count": {
+      "dog": 2,
+      "horse": 1
+    },
+    "attribution": {
+      "dog": [
+        "two",
+        "fierce"
+      ],
+      "horse": [
+        "sculptural",
+        "marble"
+      ]
+    },
+    "position": "dog watching over horse"
+  },
+  {
+    "prompt": "A photorealistic image of a tiny bright green poison dart frog attempting to ride a massive scaly monitor lizard in a misty jungle.",
+    "subject": [
+      "frog",
+      "lizard"
+    ],
+    "count": {
+      "frog": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "frog": [
+        "tiny",
+        "bright green",
+        "poison dart",
+        "attempting to ride"
+      ],
+      "lizard": [
+        "massive",
+        "scaly",
+        "monitor"
+      ]
+    },
+    "position": "frog attempting to ride lizard"
+  },
+  {
+    "prompt": "A stylized Japanese woodcut print illustrating a small frog and a lizard sitting together in front of a blooming cherry tree, muted colors.",
+    "subject": [
+      "frog",
+      "lizard"
+    ],
+    "count": {
+      "frog": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "frog": [
+        "small"
+      ],
+      "lizard": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surreal oil painting, Beksiński style, depicting a giant crystalline frog holding a small, panicked chameleon lizard.",
+    "subject": [
+      "frog",
+      "lizard"
+    ],
+    "count": {
+      "frog": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "frog": [
+        "giant",
+        "crystalline",
+        "holding"
+      ],
+      "lizard": [
+        "small",
+        "panicked",
+        "chameleon"
+      ]
+    },
+    "position": "frog holding lizard"
+  },
+  {
+    "prompt": "Dynamic close-up shot of a muscular bullfrog hotly pursuing a speedy, iridescent blue-tailed lizard across shifting desert dunes, high contrast lighting.",
+    "subject": [
+      "frog",
+      "lizard"
+    ],
+    "count": {
+      "frog": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "frog": [
+        "muscular",
+        "bullfrog",
+        "hotly pursuing"
+      ],
+      "lizard": [
+        "speedy",
+        "iridescent",
+        "blue-tailed"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Macro photography, extreme detail: a tiny bright green tree frog sitting calmly atop the head of a sleeping, patterned gecko, illuminated by soft morning light.",
+    "subject": [
+      "frog",
+      "gecko"
+    ],
+    "count": {
+      "frog": 1,
+      "gecko": 1
+    },
+    "attribution": {
+      "frog": [
+        "tiny",
+        "bright green",
+        "tree",
+        "calmly sitting"
+      ],
+      "gecko": [
+        "sleeping",
+        "patterned"
+      ]
+    },
+    "position": "frog sitting atop head of lizard"
+  },
+  {
+    "prompt": "A massive, purple-spotted poison dart frog is furiously pursuing a small, warty, anxious toad through a dark swamp.",
+    "subject": [
+      "frog",
+      "toad"
+    ],
+    "count": {
+      "frog": 1,
+      "toad": 1
+    },
+    "attribution": {
+      "frog": [
+        "massive",
+        "purple-spotted",
+        "poison dart",
+        "furiously pursuing"
+      ],
+      "toad": [
+        "small",
+        "warty",
+        "anxious"
+      ]
+    },
+    "position": "frog pursuing toad"
+  },
+  {
+    "prompt": "A minimalist, black and white tattoo design featuring a peaceful frog and a stoic toad, full body shot, highly symmetrical composition.",
+    "subject": [
+      "frog",
+      "toad"
+    ],
+    "count": {
+      "frog": 1,
+      "toad": 1
+    },
+    "attribution": {
+      "frog": [
+        "peaceful"
+      ],
+      "toad": [
+        "stoic"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A bright green tree frog sits precariously on top of the head of a massive, moss-covered toad, Frank Frazetta oil painting.",
+    "subject": [
+      "frog",
+      "toad"
+    ],
+    "count": {
+      "frog": 1,
+      "toad": 1
+    },
+    "attribution": {
+      "frog": [
+        "bright green",
+        "tree"
+      ],
+      "toad": [
+        "massive",
+        "moss-covered"
+      ]
+    },
+    "position": "frog sits on top of toad"
+  },
+  {
+    "prompt": "A common frog and a garden toad rest silently under a large lily pad during heavy rain, cinematic lighting.",
+    "subject": [
+      "frog",
+      "toad"
+    ],
+    "count": {
+      "frog": 1,
+      "toad": 1
+    },
+    "attribution": {
+      "frog": [
+        "common"
+      ],
+      "toad": [
+        "garden"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surreal illustration: A dapper, top-hat wearing frog shaking hands with a grumpy, elderly toad inside a giant clockwork mechanism, high contrast, vaporwave aesthetic.",
+    "subject": [
+      "frog",
+      "toad"
+    ],
+    "count": {
+      "frog": 1,
+      "toad": 1
+    },
+    "attribution": {
+      "frog": [
+        "dapper",
+        "top-hat wearing"
+      ],
+      "toad": [
+        "grumpy",
+        "elderly"
+      ]
+    },
+    "position": "frog shaking hands with toad"
+  },
+  {
+    "prompt": "Dramatic digital painting of an armored war horse leading a nervous brown donkey carrying supplies, fleeing a smoky castle.",
+    "subject": [
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "horse": [
+        "armored",
+        "war",
+        "leading"
+      ],
+      "donkey": [
+        "nervous",
+        "brown",
+        "carrying supplies"
+      ]
+    },
+    "position": "horse leading donkey"
+  },
+  {
+    "prompt": "Watercolor painting of a white horse standing next to a small gray donkey in a foggy field, serene lighting, high detail.",
+    "subject": [
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "horse": [
+        "white",
+        "standing"
+      ],
+      "donkey": [
+        "small",
+        "gray"
+      ]
+    },
+    "position": "horse standing next to donkey"
+  },
+  {
+    "prompt": "High-contrast photography of a futuristic, cybernetic horse and a weary, bioluminescent donkey huddled beneath a dying moon.",
+    "subject": [
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "horse": [
+        "futuristic",
+        "cybernetic"
+      ],
+      "donkey": [
+        "weary",
+        "bioluminescent",
+        "huddled"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A large horse gently nuzzling a donkey, captured with sharp macro lens detail.",
+    "subject": [
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "horse": [
+        "large",
+        "gently nuzzling"
+      ],
+      "donkey": []
+    },
+    "position": "horse nuzzling donkey"
+  },
+  {
+    "prompt": "Highly detailed Ancient Greek bronze sculpture of two muscular horses pulling a chariot, with a single stoic donkey walking behind them.",
+    "subject": [
+      "horses",
+      "donkey"
+    ],
+    "count": {
+      "horse": 2,
+      "donkey": 1
+    },
+    "attribution": {
+      "horses": [
+        "ancient greek",
+        "bronze",
+        "muscular",
+        "pulling chariot"
+      ],
+      "donkey": [
+        "single",
+        "stoic",
+        "walking behind"
+      ]
+    },
+    "position": "donkey walking behind horses"
+  },
+  {
+    "prompt": "A dramatic chiaroscuro photograph showing a velvet crimson rose gently draped over the smooth, emerald petals of a massive tulip.",
+    "subject": [
+      "rose",
+      "tulip"
+    ],
+    "count": {
+      "rose": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "velvet",
+        "crimson",
+        "gently draped"
+      ],
+      "tulip": [
+        "smooth",
+        "emerald",
+        "massive"
+      ]
+    },
+    "position": "rose draped over tulip"
+  },
+  {
+    "prompt": "Early morning sunlight catching the dew drops on a single perfect tulip and a freshly opened rose, illustrated in a loose watercolor style.",
+    "subject": [
+      "tulip",
+      "rose"
+    ],
+    "count": {
+      "rose": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "freshly opened"
+      ],
+      "tulip": [
+        "single",
+        "perfect"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Two colossal, ancient stone roses standing guard while a fragile glass tulip floats between them, illuminated by moonlight.",
+    "subject": [
+      "roses",
+      "tulip"
+    ],
+    "count": {
+      "rose": 2,
+      "tulip": 1
+    },
+    "attribution": {
+      "roses": [
+        "colossal",
+        "ancient",
+        "stone",
+        "standing guard"
+      ],
+      "tulip": [
+        "fragile",
+        "glass"
+      ]
+    },
+    "position": "tulip floats between roses"
+  },
+  {
+    "prompt": "A tight, highly detailed macro photograph of a single sharp magenta tulip laying beside a pair of soft yellow roses, focusing on bokeh.",
+    "subject": [
+      "tulip",
+      "roses"
+    ],
+    "count": {
+      "rose": 2,
+      "tulip": 1
+    },
+    "attribution": {
+      "roses": [
+        "soft",
+        "yellow"
+      ],
+      "tulip": [
+        "single",
+        "sharp",
+        "magenta"
+      ]
+    },
+    "position": "tulip laying beside roses"
+  },
+  {
+    "prompt": "A stylized vector graphic depicting one tall purple tulip completely overshadowing a small red rose.",
+    "subject": [
+      "tulip",
+      "rose"
+    ],
+    "count": {
+      "rose": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "small",
+        "red"
+      ],
+      "tulip": [
+        "one",
+        "tall",
+        "purple"
+      ]
+    },
+    "position": "tulip overshadowing rose"
+  },
+  {
+    "prompt": "Ornate Art Nouveau illustration of a vibrant, emerald-scaled lizard carefully balancing a coiled, black viper snake on its nose, complex gold filigree.",
+    "subject": [
+      "snake",
+      "lizard"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "snake": [
+        "coiled",
+        "black viper"
+      ],
+      "lizard": [
+        "ornate",
+        "vibrant",
+        "emerald-scaled"
+      ]
+    },
+    "position": "lizard balancing snake on its nose"
+  },
+  {
+    "prompt": "A dramatic chiaroscuro photograph capturing a snake and a lizard within the deep shadows of a tropical rainforest floor.",
+    "subject": [
+      "snake",
+      "lizard"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "snake": [],
+      "lizard": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "1930s cartoon sketch showing a tiny, frightened lizard fleeing from a massive, grinning python snake.",
+    "subject": [
+      "snake",
+      "lizard"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "snake": [
+        "massive",
+        "grinning python"
+      ],
+      "lizard": [
+        "frightened",
+        "tiny"
+      ]
+    },
+    "position": "lizard fleeing from snake"
+  },
+  {
+    "prompt": "A Salvador Dali painting of a spectral desert lizard melting onto a pedestal, while a regular garden snake casually wraps around the base.",
+    "subject": [
+      "snake",
+      "lizard"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1
+    },
+    "attribution": {
+      "snake": [
+        "regular",
+        "garden"
+      ],
+      "lizard": [
+        "spectral",
+        "desert",
+        "melting"
+      ]
+    },
+    "position": "snake wraps around base under lizard"
+  },
+  {
+    "prompt": "Extreme close-up macro photography of a single brilliant blue lizard resting on rough bark, with three long, dormant brown snakes hiding nearby.",
+    "subject": [
+      "snakes",
+      "lizard"
+    ],
+    "count": {
+      "snake": 3,
+      "lizard": 1
+    },
+    "attribution": {
+      "snake": [
+        "long",
+        "dormant",
+        "brown"
+      ],
+      "lizard": [
+        "brilliant",
+        "blue"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A massive blue whale breaches the ocean surface, casting a deep shadow over a gentle, curious manatee swimming directly beneath it. Hyperrealistic oil painting.",
+    "subject": [
+      "whale",
+      "manatee"
+    ],
+    "count": {
+      "whale": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "whale": [
+        "massive",
+        "blue",
+        "breaching"
+      ],
+      "manatee": [
+        "gentle",
+        "curious"
+      ]
+    },
+    "position": "whale over manatee"
+  },
+  {
+    "prompt": "An underwater photograph capturing a large whale and a manatee observed near a vibrant coral reef.",
+    "subject": [
+      "whale",
+      "manatee"
+    ],
+    "count": {
+      "whale": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "whale": [
+        "large"
+      ],
+      "manatee": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A sleek, fast whale chasing a slow, bewildered manatee through a lush kelp forest. Dynamic action shot, 4K.",
+    "subject": [
+      "whale",
+      "manatee"
+    ],
+    "count": {
+      "whale": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "whale": [
+        "sleek",
+        "fast"
+      ],
+      "manatee": [
+        "slow",
+        "bewildered"
+      ]
+    },
+    "position": "whale chasing manatee"
+  },
+  {
+    "prompt": "A small pod of two majestic whales gently guiding three adorable manatees towards the shimmering moonlight, highly detailed digital painting.",
+    "subject": [
+      "whales",
+      "manatees"
+    ],
+    "count": {
+      "whale": 2,
+      "manatee": 3
+    },
+    "attribution": {
+      "whale": [
+        "small",
+        "majestic"
+      ],
+      "manatee": [
+        "adorable"
+      ]
+    },
+    "position": "whales guiding manatees"
+  },
+  {
+    "prompt": "Vaporwave aesthetic featuring a purple whale and a pink manatee floating lazily beneath neon palm trees in shallow water.",
+    "subject": [
+      "whale",
+      "manatee"
+    ],
+    "count": {
+      "whale": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "whale": [
+        "purple"
+      ],
+      "manatee": [
+        "pink",
+        "floating lazily"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A chiaroscuro portrait of a glistening orange carrot leaning against a massive, intricately carved wooden parsnip. Neo-Victorian, volumetric lighting.",
+    "subject": [
+      "carrot",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "glistening",
+        "orange",
+        "chiaroscuro"
+      ],
+      "parsnip": [
+        "massive",
+        "intricately carved",
+        "wooden"
+      ]
+    },
+    "position": "leaning against"
+  },
+  {
+    "prompt": "A minimalist, line art illustration of a carrot and a parsnip placed neatly on a white background.",
+    "subject": [
+      "carrot",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [],
+      "parsnip": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A large, grumpy anthropomorphic carrot wearing a tiny monocle and menacingly pointing a razor-sharp parsnip at the viewer. Digital art, 8k resolution.",
+    "subject": [
+      "carrot",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "large",
+        "grumpy",
+        "anthropomorphic",
+        "tiny"
+      ],
+      "parsnip": [
+        "razor-sharp"
+      ]
+    },
+    "position": "pointing"
+  },
+  {
+    "prompt": "Two carrots and one parsnip sitting on a cutting board, high contrast macro photography.",
+    "subject": [
+      "carrots",
+      "parsnip"
+    ],
+    "count": {
+      "carrots": 2,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrots": [],
+      "parsnip": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A highly detailed Baroque still life featuring peeled, wet carrots balanced on the broad root of a magnificent golden parsnip, dark velvet backdrop.",
+    "subject": [
+      "carrots",
+      "parsnip"
+    ],
+    "count": {
+      "carrots": 2,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrots": [
+        "peeled",
+        "wet"
+      ],
+      "parsnip": [
+        "magnificent",
+        "golden",
+        "broad"
+      ]
+    },
+    "position": "balanced on"
+  },
+  {
+    "prompt": "A giant, ripe berry cradling a single, gleaming cherry, hyperrealistic macro photography.",
+    "subject": [
+      "cherry",
+      "berry"
+    ],
+    "count": {
+      "cherry": 1,
+      "berry": 1
+    },
+    "attribution": {
+      "cherry": [
+        "single",
+        "gleaming"
+      ],
+      "berry": [
+        "giant",
+        "ripe"
+      ]
+    },
+    "position": "berry cradling cherry"
+  },
+  {
+    "prompt": "A photorealistic image of a perfect red cherry sitting on a white dish beside several small blue berries, studio lighting.",
+    "subject": [
+      "cherry",
+      "berries"
+    ],
+    "count": {
+      "cherry": 1,
+      "berries": 1
+    },
+    "attribution": {
+      "cherry": [
+        "perfect",
+        "red"
+      ],
+      "berries": [
+        "small",
+        "blue"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An inquisitive cartoon squirrel juggling a bright red cherry and a handful of mixed purple berries, dynamic lighting, Pixar style.",
+    "subject": [
+      "squirrel",
+      "cherry",
+      "berries"
+    ],
+    "count": {
+      "squirrel": 1,
+      "cherry": 1,
+      "berries": 1
+    },
+    "attribution": {
+      "squirrel": [
+        "inquisitive",
+        "cartoon"
+      ],
+      "cherry": [
+        "bright",
+        "red"
+      ],
+      "berries": [
+        "mixed",
+        "purple"
+      ]
+    },
+    "position": "squirrel juggling cherry and berries"
+  },
+  {
+    "prompt": "Oil painting texture study of a whole cherry embedded within a swirling pattern of crushed berry juice, dark academia style.",
+    "subject": [
+      "cherry",
+      "berry"
+    ],
+    "count": {
+      "cherry": 1,
+      "berry": 1
+    },
+    "attribution": {
+      "cherry": [
+        "whole"
+      ],
+      "berry": [
+        "crushed"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A monstrous, pulsating black berry consuming a terrified, glistening cherry in a dark jungle clearing, horror film aesthetic.",
+    "subject": [
+      "berry",
+      "cherry"
+    ],
+    "count": {
+      "berry": 1,
+      "cherry": 1
+    },
+    "attribution": {
+      "cherry": [
+        "terrified",
+        "glistening"
+      ],
+      "berry": [
+        "monstrous",
+        "pulsating",
+        "black"
+      ]
+    },
+    "position": "berry consuming cherry"
+  },
+  {
+    "prompt": "Terrified mallard duck frantically fleeing a massive, grumpy Canadian goose on a lawn, volumetric lighting, photorealistic.",
+    "subject": [
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "duck": [
+        "terrified",
+        "mallard",
+        "frantically fleeing"
+      ],
+      "goose": [
+        "massive",
+        "grumpy",
+        "Canadian"
+      ]
+    },
+    "position": "fleeing from"
+  },
+  {
+    "prompt": "A simple, watercolor illustration of a small yellow duck and an elegant white goose resting on a lily pad.",
+    "subject": [
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "duck": [
+        "small",
+        "yellow"
+      ],
+      "goose": [
+        "elegant",
+        "white"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Armored space duck holding a laser rifle, riding a cybernetic goose through a purple nebula, highly detailed cinematic shot.",
+    "subject": [
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "duck": [
+        "armored",
+        "space",
+        "holding a laser rifle",
+        "riding"
+      ],
+      "goose": [
+        "cybernetic"
+      ]
+    },
+    "position": "riding"
+  },
+  {
+    "prompt": "A sepia-toned vintage photograph captures a duck cautiously hiding behind a much larger goose near a fountain.",
+    "subject": [
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "duck": [
+        "cautiously hiding"
+      ],
+      "goose": [
+        "much larger"
+      ]
+    },
+    "position": "hiding behind"
+  },
+  {
+    "prompt": "Rubber duck and a gentle farm goose sharing a giant slice of cake, stop-motion claymation style.",
+    "subject": [
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "duck": [
+        "rubber"
+      ],
+      "goose": [
+        "gentle",
+        "farm"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Colossal, bioluminescent poison dart frog fiercely gripping a shimmering iridescent green viper in a jungle, hyperdetailed photorealism, volumetric lighting.",
+    "subject": [
+      "frog",
+      "viper"
+    ],
+    "count": {
+      "frog": 1,
+      "viper": 1
+    },
+    "attribution": {
+      "frog": [
+        "colossal",
+        "bioluminescent",
+        "poison dart",
+        "fiercely gripping"
+      ],
+      "viper": [
+        "shimmering",
+        "iridescent green"
+      ]
+    },
+    "position": "frog gripping viper"
+  },
+  {
+    "prompt": "A wide cinematic shot of a tree frog and a massive rattlesnake, 70mm film grain.",
+    "subject": [
+      "frog",
+      "rattlesnake"
+    ],
+    "count": {
+      "frog": 1,
+      "rattlesnake": 1
+    },
+    "attribution": {
+      "frog": [
+        "tree"
+      ],
+      "rattlesnake": [
+        "massive"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Two tiny, winged frogs riding a mystical cobra through a galaxy of stars, digital painting, psychedelic colors.",
+    "subject": [
+      "frogs",
+      "cobra"
+    ],
+    "count": {
+      "frogs": 2,
+      "cobra": 1
+    },
+    "attribution": {
+      "frogs": [
+        "tiny",
+        "winged"
+      ],
+      "cobra": [
+        "mystical"
+      ]
+    },
+    "position": "frogs riding cobra"
+  },
+  {
+    "prompt": "An oil painting depicting a frightened frog hiding among reeds while a patterned water snake swims past.",
+    "subject": [
+      "frog",
+      "snake"
+    ],
+    "count": {
+      "frog": 1,
+      "snake": 1
+    },
+    "attribution": {
+      "frog": [
+        "frightened"
+      ],
+      "snake": [
+        "patterned",
+        "water"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Sketch art of a single, majestic golden frog balancing delicately on the intertwined heads of two fierce black mamba snakes.",
+    "subject": [
+      "frog",
+      "snakes"
+    ],
+    "count": {
+      "frog": 1,
+      "snakes": 2
+    },
+    "attribution": {
+      "frog": [
+        "single",
+        "majestic",
+        "golden"
+      ],
+      "snakes": [
+        "fierce",
+        "black mamba",
+        "intertwined"
+      ]
+    },
+    "position": "frog balancing on snake heads"
+  },
+  {
+    "prompt": "A small monkey is playfully riding on the back of a huge silverback gorilla, dramatic lighting, photorealistic cinematic shot.",
+    "subject": [
+      "monkey",
+      "gorilla"
+    ],
+    "count": {
+      "monkey": 1,
+      "gorilla": 1
+    },
+    "attribution": {
+      "monkey": [
+        "small",
+        "playfully riding"
+      ],
+      "gorilla": [
+        "huge",
+        "silverback"
+      ]
+    },
+    "position": "monkey riding on the back of gorilla"
+  },
+  {
+    "prompt": "Hyperdetailed render of an anxious, golden-furred monkey clutching a jewel, near a colossal, contemplative gorilla in the dense mist.",
+    "subject": [
+      "monkey",
+      "gorilla"
+    ],
+    "count": {
+      "monkey": 1,
+      "gorilla": 1
+    },
+    "attribution": {
+      "monkey": [
+        "anxious",
+        "golden-furred",
+        "clutching a jewel"
+      ],
+      "gorilla": [
+        "colossal",
+        "contemplative"
+      ]
+    },
+    "position": "monkey near gorilla"
+  },
+  {
+    "prompt": "A tired monkey is meticulously grooming the fur of a relaxed gorilla, highly detailed documentary photograph, black and white.",
+    "subject": [
+      "monkey",
+      "gorilla"
+    ],
+    "count": {
+      "monkey": 1,
+      "gorilla": 1
+    },
+    "attribution": {
+      "monkey": [
+        "tired",
+        "meticulously grooming"
+      ],
+      "gorilla": [
+        "relaxed"
+      ]
+    },
+    "position": "monkey grooming the fur of gorilla"
+  },
+  {
+    "prompt": "A dramatic Renaissance oil painting depicting three mischievous, chaotic monkeys attempting to steal fruit from the massive, protective hand of a sleeping lowland gorilla.",
+    "subject": [
+      "monkeys",
+      "gorilla"
+    ],
+    "count": {
+      "monkeys": 3,
+      "gorilla": 1
+    },
+    "attribution": {
+      "monkeys": [
+        "mischievous",
+        "chaotic",
+        "attempting to steal fruit"
+      ],
+      "gorilla": [
+        "massive",
+        "protective",
+        "sleeping",
+        "lowland"
+      ]
+    },
+    "position": "monkeys attempting to steal fruit from the hand of gorilla"
+  },
+  {
+    "prompt": "Vibrant watercolor sketch of a frightened monkey perched on a railing, watching a massive gorilla observing the sunset from a tropical cruise ship deck.",
+    "subject": [
+      "monkey",
+      "gorilla"
+    ],
+    "count": {
+      "monkey": 1,
+      "gorilla": 1
+    },
+    "attribution": {
+      "monkey": [
+        "vibrant",
+        "frightened",
+        "perched on a railing"
+      ],
+      "gorilla": [
+        "massive",
+        "observing the sunset"
+      ]
+    },
+    "position": "monkey perched on railing, watching gorilla"
+  },
+  {
+    "prompt": "A high-octane cinematic shot of a chrome-plated cruiser motorcycle speeding down a rainy highway, desperately pursuing a brightly spray-painted stunt bicycle.",
+    "subject": [
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "motorcycle": [
+        "high-octane",
+        "cinematic",
+        "chrome-plated",
+        "cruiser",
+        "speeding",
+        "desperately pursuing"
+      ],
+      "bicycle": [
+        "brightly spray-painted",
+        "stunt"
+      ]
+    },
+    "position": "pursuing"
+  },
+  {
+    "prompt": "A dramatic black and white photograph showcasing an abandoned motorcycle and a rusty bicycle positioned separately inside an old warehouse.",
+    "subject": [
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "motorcycle": [
+        "abandoned"
+      ],
+      "bicycle": [
+        "rusty"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Sculpture made of melting clock parts where a massive Chopper motorcycle is morphing out of the frame of a vintage racing bicycle, photorealistic, Salvador Dali style.",
+    "subject": [
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "motorcycle": [
+        "massive",
+        "Chopper",
+        "morphing out of frame"
+      ],
+      "bicycle": [
+        "vintage",
+        "racing"
+      ]
+    },
+    "position": "morphing out of the frame of"
+  },
+  {
+    "prompt": "A dusty, battle-worn dirt bike leans casually against a rusted touring bicycle under the scorching twin suns of a Mars-like desert landscape, highly detailed matte painting.",
+    "subject": [
+      "bike",
+      "bicycle"
+    ],
+    "count": {
+      "bike": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "bike": [
+        "dusty",
+        "battle-worn",
+        "leans casually against"
+      ],
+      "bicycle": [
+        "rusted",
+        "touring"
+      ]
+    },
+    "position": "leans casually against"
+  },
+  {
+    "prompt": "A low-angle shot, highly detailed photorealistic image of a sleek electric motorcycle and an aluminum racing bicycle displayed individually in separate glass cases at a museum exhibit.",
+    "subject": [
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "motorcycle": [
+        "sleek",
+        "electric",
+        "displayed individually"
+      ],
+      "bicycle": [
+        "aluminum",
+        "racing",
+        "displayed individually"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A stunning, photorealistic render of a single, vibrant orange muskmelon slice perched delicately inside a weathered brown coconut shell, highly focused.",
+    "subject": [
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "muskmelon": [
+        "stunning",
+        "photorealistic",
+        "vibrant orange",
+        "single",
+        "sliced"
+      ],
+      "coconut": [
+        "weathered brown",
+        "shell"
+      ]
+    },
+    "position": "muskmelon inside coconut"
+  },
+  {
+    "prompt": "Two muskmelons and a coconut sitting on a kitchen counter in soft, ambient lighting.",
+    "subject": [
+      "muskmelons",
+      "coconut"
+    ],
+    "count": {
+      "muskmelons": 2,
+      "coconut": 1
+    },
+    "attribution": {
+      "muskmelons": [],
+      "coconut": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A mischievous, sentient muskmelon wearing tiny glasses is carefully juggling three hairy coconuts, volumetric cinematic lighting, 8k resolution.",
+    "subject": [
+      "muskmelon",
+      "coconuts"
+    ],
+    "count": {
+      "muskmelon": 1,
+      "coconuts": 3
+    },
+    "attribution": {
+      "muskmelon": [
+        "mischievous",
+        "sentient",
+        "wearing tiny glasses"
+      ],
+      "coconuts": [
+        "hairy"
+      ]
+    },
+    "position": "muskmelon juggling coconuts"
+  },
+  {
+    "prompt": "A dark and moody chiaroscuro oil painting depicting three half-eaten muskmelons scattered loosely around a single, dry coconut shell.",
+    "subject": [
+      "muskmelons",
+      "coconut"
+    ],
+    "count": {
+      "muskmelons": 3,
+      "coconut": 1
+    },
+    "attribution": {
+      "muskmelons": [
+        "half-eaten",
+        "scattered"
+      ],
+      "coconut": [
+        "single",
+        "dry",
+        "shell"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surrealist digital collage artwork of a giant, glowing muskmelon floating high above a cracked coconut that is pouring out streams of liquid gold.",
+    "subject": [
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "muskmelon": [
+        "giant",
+        "glowing"
+      ],
+      "coconut": [
+        "cracked",
+        "pouring out streams of liquid gold"
+      ]
+    },
+    "position": "muskmelon floating above coconut"
+  },
+  {
+    "prompt": "A hyperdetailed macro photograph of a glistening, fuzzy peach precariously balanced on top of a perfectly crisp, ruby-red apple, captured in low key lighting.",
+    "subject": [
+      "peach",
+      "apple"
+    ],
+    "count": {
+      "peach": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "peach": [
+        "glistening",
+        "fuzzy"
+      ],
+      "apple": [
+        "perfectly crisp",
+        "ruby-red"
+      ]
+    },
+    "position": "balanced on top of"
+  },
+  {
+    "prompt": "Two watercolor pieces: one showing an ordinary apple, and the other depicting a ripe sliced peach, lying on a sunlit kitchen counter.",
+    "subject": [
+      "peach",
+      "apple"
+    ],
+    "count": {
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "peach": [
+        "ripe",
+        "sliced"
+      ],
+      "apple": [
+        "ordinary"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Caravaggio oil painting: a smooth, golden-skinned peach casts a shadow onto a large, bruised green apple, set against a dark velvet cloth.",
+    "subject": [
+      "peach",
+      "apple"
+    ],
+    "count": {
+      "peach": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "peach": [
+        "smooth",
+        "golden-skinned"
+      ],
+      "apple": [
+        "large",
+        "bruised",
+        "green"
+      ]
+    },
+    "position": "peach casts a shadow onto apple"
+  },
+  {
+    "prompt": "A space traveler grabs a peach that is situated beside a glowing, gravity-defying apple floating through the asteroid field.",
+    "subject": [
+      "peach",
+      "apple"
+    ],
+    "count": {
+      "peach": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "peach": [],
+      "apple": [
+        "glowing",
+        "gravity-defying"
+      ]
+    },
+    "position": "situated beside"
+  },
+  {
+    "prompt": "A photorealistic 3D render of a simple peach and a standard red apple connected by a single thread of luminous silver wire, minimalistic white background.",
+    "subject": [
+      "peach",
+      "apple"
+    ],
+    "count": {
+      "peach": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "peach": [
+        "simple"
+      ],
+      "apple": [
+        "standard",
+        "red"
+      ]
+    },
+    "position": "connected by"
+  },
+  {
+    "prompt": "A teenage girl balancing expertly on her bright red scooter while carrying a classic wooden skateboard under her arm.",
+    "subject": [
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "scooter": [
+        "bright red"
+      ],
+      "skateboard": [
+        "classic",
+        "wooden"
+      ]
+    },
+    "position": "skateboard carried by person on scooter"
+  },
+  {
+    "prompt": "A minimalist woodcut print of a neon-striped scooter resting among several dusty, worn skateboards, dramatically lit.",
+    "subject": [
+      "scooter",
+      "skateboards"
+    ],
+    "count": {
+      "scooter": 1,
+      "skateboards": 2
+    },
+    "attribution": {
+      "scooter": [
+        "neon-striped"
+      ],
+      "skateboards": [
+        "dusty",
+        "worn"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A small child is attempting to tow a skateboard using a sturdy scooter on a sunny pavement.",
+    "subject": [
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "scooter": [
+        "sturdy"
+      ],
+      "skateboard": []
+    },
+    "position": "scooter towing skateboard"
+  },
+  {
+    "prompt": "Dreamlike photograph of a vintage, rusted scooter casting a long shadow onto a broken skateboard, high contrast black and white.",
+    "subject": [
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "scooter": [
+        "vintage",
+        "rusted"
+      ],
+      "skateboard": [
+        "broken"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An astronaut inspecting a high-tech electric scooter tethered behind a collapsible carbon-fiber skateboard. Cinematic lighting, ultra realism.",
+    "subject": [
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "scooter": [
+        "high-tech",
+        "electric"
+      ],
+      "skateboard": [
+        "collapsible",
+        "carbon-fiber"
+      ]
+    },
+    "position": "scooter tethered behind skateboard"
+  },
+  {
+    "prompt": "A majestic, gleaming white horse charging through a storm, followed closely by a shadowy, striped zebra. Hyperrealistic style of Zdzisław Beksiński.",
+    "subject": [
+      "zebra",
+      "horse"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "zebra": [
+        "shadowy",
+        "striped"
+      ],
+      "horse": [
+        "majestic",
+        "gleaming",
+        "white"
+      ]
+    },
+    "position": "followed closely by"
+  },
+  {
+    "prompt": "Two zebras and a single brown horse are drinking from a misty, jungle river, positioned right next to each other.",
+    "subject": [
+      "zebras",
+      "horse"
+    ],
+    "count": {
+      "zebras": 2,
+      "horse": 1
+    },
+    "attribution": {
+      "zebras": [],
+      "horse": [
+        "brown"
+      ]
+    },
+    "position": "next to each other"
+  },
+  {
+    "prompt": "A low-poly digital artwork depicting a geometric, neon zebra running in parallel with a startled, polygonal horse on a dark grid plane.",
+    "subject": [
+      "zebra",
+      "horse"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "zebra": [
+        "low-poly",
+        "digital",
+        "geometric",
+        "neon"
+      ],
+      "horse": [
+        "startled",
+        "polygonal"
+      ]
+    },
+    "position": "running in parallel with"
+  },
+  {
+    "prompt": "An illustration of a playful baby zebra eating grass while a gigantic wild horse is visible in the distant mountain range.",
+    "subject": [
+      "zebra",
+      "horse"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "zebra": [
+        "playful",
+        "baby"
+      ],
+      "horse": [
+        "gigantic",
+        "wild"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Cinematic wide shot of a powerful black horse rearing up aggressively over a frightened striped zebra, captured at sunset, hyperdetailed 8k render.",
+    "subject": [
+      "zebra",
+      "horse"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1
+    },
+    "attribution": {
+      "zebra": [
+        "frightened",
+        "striped"
+      ],
+      "horse": [
+        "powerful",
+        "black"
+      ]
+    },
+    "position": "rearing up aggressively over"
+  },
+  {
+    "prompt": "A grizzled attack helicopter dodging missile trails, barely escaping a sleek, supersonic warplane chasing it through a stormy canyon.",
+    "subject": [
+      "helicopter",
+      "warplane"
+    ],
+    "count": {
+      "helicopter": 1,
+      "warplane": 1
+    },
+    "attribution": {
+      "helicopter": [
+        "grizzled",
+        "attack"
+      ],
+      "warplane": [
+        "sleek",
+        "supersonic"
+      ]
+    },
+    "position": "helicopter barely escaping warplane chasing it"
+  },
+  {
+    "prompt": "A vintage helicopter parked on a desert runway near a modern warplane resting under the midday sun. Cinematic photo.",
+    "subject": [
+      "helicopter",
+      "warplane"
+    ],
+    "count": {
+      "helicopter": 1,
+      "warplane": 1
+    },
+    "attribution": {
+      "helicopter": [
+        "vintage"
+      ],
+      "warplane": [
+        "modern"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "In a watercolor illustration, a small rescue helicopter is landing gently onto the wing of a colossal, airborne stealth warplane. Soft light, highly detailed.",
+    "subject": [
+      "helicopter",
+      "warplane"
+    ],
+    "count": {
+      "helicopter": 1,
+      "warplane": 1
+    },
+    "attribution": {
+      "helicopter": [
+        "small",
+        "rescue"
+      ],
+      "warplane": [
+        "colossal",
+        "airborne",
+        "stealth"
+      ]
+    },
+    "position": "helicopter is landing gently onto the wing of warplane"
+  },
+  {
+    "prompt": "A massive military helicopter lifting off from an aircraft carrier deck while a heavily armed warplane speeds away in the distance above the turbulent sea. Dynamic lighting.",
+    "subject": [
+      "helicopter",
+      "warplane"
+    ],
+    "count": {
+      "helicopter": 1,
+      "warplane": 1
+    },
+    "attribution": {
+      "helicopter": [
+        "massive",
+        "military"
+      ],
+      "warplane": [
+        "heavily armed"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Two sleek warplanes performing sharp maneuvers directly behind a heavily armored helicopter during a nighttime raid over city lights. Digital art.",
+    "subject": [
+      "helicopter",
+      "warplanes"
+    ],
+    "count": {
+      "helicopter": 1,
+      "warplane": 2
+    },
+    "attribution": {
+      "helicopter": [
+        "heavily armored"
+      ],
+      "warplane": [
+        "sleek"
+      ]
+    },
+    "position": "warplanes performing sharp maneuvers directly behind helicopter"
+  },
+  {
+    "prompt": "A majestic sapphire butterfly fluttering just above a massive, golden honey bee collecting nectar on a giant lavender bloom, highly detailed oil painting, deep focus.",
+    "subject": [
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "butterfly": [
+        "majestic",
+        "sapphire"
+      ],
+      "bee": [
+        "massive",
+        "golden",
+        "honey"
+      ]
+    },
+    "position": "butterfly fluttering just above a bee"
+  },
+  {
+    "prompt": "A documentary photograph showing a butterfly and a bee near each other on a forest floor, macro lens shot.",
+    "subject": [
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "butterfly": [],
+      "bee": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Two enormous, electric butterflies aggressively chasing a frightened bee through a futuristic cyberpunk city, neon glow, cinematic lighting.",
+    "subject": [
+      "butterflies",
+      "bee"
+    ],
+    "count": {
+      "butterfly": 2,
+      "bee": 1
+    },
+    "attribution": {
+      "butterfly": [
+        "enormous",
+        "electric",
+        "aggressively"
+      ],
+      "bee": [
+        "frightened"
+      ]
+    },
+    "position": "butterflies chasing a bee"
+  },
+  {
+    "prompt": "A Monarch butterfly resting on a worn leather book, while a fuzzy bee flies into the light of the setting sun, watercolor sketch.",
+    "subject": [
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "butterfly": [
+        "Monarch"
+      ],
+      "bee": [
+        "fuzzy"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A small butterfly gently perched on the back of a busy brown bee, detailed photorealistic pencil sketch on parchment.",
+    "subject": [
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "butterfly": [
+        "small",
+        "gently"
+      ],
+      "bee": [
+        "busy",
+        "brown"
+      ]
+    },
+    "position": "butterfly perched on the back of a bee"
+  },
+  {
+    "prompt": "A giant sliced watermelon, shimmering with dew, holding a fuzzy brown coconut in its rind claw, hyperdetailed oil painting, cinematic lighting.",
+    "subject": [
+      "watermelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "giant",
+        "sliced",
+        "shimmering with dew"
+      ],
+      "coconut": [
+        "fuzzy",
+        "brown"
+      ]
+    },
+    "position": "watermelon holding coconut"
+  },
+  {
+    "prompt": "A whole watermelon and a coconut placed near a hammock strung between two palm trees on a tropical beach, clear sunny day photograph.",
+    "subject": [
+      "watermelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "whole"
+      ],
+      "coconut": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A happy smiling watermelon mascot standing next to a grumpy, half-cracked coconut mascot, overlooking a surfer, digital illustration.",
+    "subject": [
+      "watermelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "happy",
+        "smiling",
+        "mascot"
+      ],
+      "coconut": [
+        "grumpy",
+        "half-cracked",
+        "mascot"
+      ]
+    },
+    "position": "watermelon standing next to coconut"
+  },
+  {
+    "prompt": "A minimalist composition featuring the vibrant pink flesh of a watermelon contrasted against the rough texture of a whole coconut and a golden pineapple, floating in white space, 4K.",
+    "subject": [
+      "watermelon",
+      "coconut",
+      "pineapple"
+    ],
+    "count": {
+      "watermelon": 1,
+      "coconut": 1,
+      "pineapple": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "vibrant pink flesh"
+      ],
+      "coconut": [
+        "rough texture",
+        "whole"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A small watermelon shaded under the massive husk of a fallen coconut, curious seagull observes the fruit, retro travel poster style, pastel colors.",
+    "subject": [
+      "watermelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "small"
+      ],
+      "coconut": [
+        "massive husk",
+        "fallen"
+      ]
+    },
+    "position": "watermelon under coconut"
+  },
+  {
+    "prompt": "A small russet potato balancing precariously on top of a single cooked yam, sharp studio photography with bright highlights.",
+    "subject": [
+      "potato",
+      "yam"
+    ],
+    "count": {
+      "potato": 1,
+      "yam": 1
+    },
+    "attribution": {
+      "potato": [
+        "small",
+        "russet",
+        "precariously"
+      ],
+      "yam": [
+        "single",
+        "cooked"
+      ]
+    },
+    "position": "potato balancing on top of yam"
+  },
+  {
+    "prompt": "An enormous glowing potato god sits regally upon a grotesque throne carved entirely from crystallized yam, dramatic fantasy digital painting.",
+    "subject": [
+      "potato",
+      "yam"
+    ],
+    "count": {
+      "potato": 1,
+      "yam": 1
+    },
+    "attribution": {
+      "potato": [
+        "enormous",
+        "glowing",
+        "regally",
+        "god"
+      ],
+      "yam": [
+        "crystallized"
+      ]
+    },
+    "position": "potato sits upon throne carved from yam"
+  },
+  {
+    "prompt": "A hyper-detailed photorealistic painting depicting the molecular structure of a potato slowly dissolving and transforming into liquid yam, conceptual art.",
+    "subject": [
+      "potato",
+      "yam"
+    ],
+    "count": {
+      "potato": 1,
+      "yam": 1
+    },
+    "attribution": {
+      "potato": [
+        "molecular",
+        "hyper-detailed",
+        "photorealistic"
+      ],
+      "yam": [
+        "liquid"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Four freshly dug Yukon Gold potatoes and two bright orange jewel yams resting together, highly textured macro photograph with heavy depth of field.",
+    "subject": [
+      "potatoes",
+      "yams"
+    ],
+    "count": {
+      "potatoes": 4,
+      "yams": 2
+    },
+    "attribution": {
+      "potatoes": [
+        "freshly dug",
+        "Yukon Gold",
+        "highly textured"
+      ],
+      "yams": [
+        "bright orange",
+        "jewel"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A grumpy anthropomorphic potato chef aggressively chasing a fleeing yam wearing a small fedora across a kitchen counter, cinematic lighting, Pixar animation style.",
+    "subject": [
+      "potato",
+      "yam"
+    ],
+    "count": {
+      "potato": 1,
+      "yam": 1
+    },
+    "attribution": {
+      "potato": [
+        "grumpy",
+        "anthropomorphic",
+        "chef",
+        "aggressively"
+      ],
+      "yam": [
+        "fleeing",
+        "anthropomorphic"
+      ]
+    },
+    "position": "potato chasing yam"
+  },
+  {
+    "prompt": "Cinematic close-up of a polished red apple resting on a weathered green cooking pear, dramatically lit.",
+    "subject": [
+      "pear",
+      "apple"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "pear": [
+        "weathered",
+        "green",
+        "cooking"
+      ],
+      "apple": [
+        "polished",
+        "red"
+      ]
+    },
+    "position": "apple resting on pear"
+  },
+  {
+    "prompt": "A quick sketch of a happy little apple floating beside a worried, frowning pear in a minimalist cartoon style.",
+    "subject": [
+      "pear",
+      "apple"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "pear": [
+        "worried",
+        "frowning"
+      ],
+      "apple": [
+        "happy",
+        "little"
+      ]
+    },
+    "position": "apple floating beside pear"
+  },
+  {
+    "prompt": "A classical still life oil painting showing an apple and a pear placed side by side on a wooden table.",
+    "subject": [
+      "pear",
+      "apple"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "pear": [],
+      "apple": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Photorealistic macro photography of a glistening, tart apple being chased by a colossal, golden pear across a kitchen counter.",
+    "subject": [
+      "pear",
+      "apple"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "pear": [
+        "colossal",
+        "golden"
+      ],
+      "apple": [
+        "glistening",
+        "tart"
+      ]
+    },
+    "position": "pear chasing apple"
+  },
+  {
+    "prompt": "Whimsical watercolor depiction of a brown, bruised pear hiding behind a flawless, shiny apple.",
+    "subject": [
+      "pear",
+      "apple"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1
+    },
+    "attribution": {
+      "pear": [
+        "brown",
+        "bruised"
+      ],
+      "apple": [
+        "flawless",
+        "shiny"
+      ]
+    },
+    "position": "pear hiding behind apple"
+  },
+  {
+    "prompt": "Hyperrealistic macro photograph of a single dewy white daisy casting a shadow over vibrant deep purple violets.",
+    "subject": [
+      "daisy",
+      "violets"
+    ],
+    "count": {
+      "daisy": 1,
+      "violets": 2
+    },
+    "attribution": {
+      "daisy": [
+        "hyperrealistic",
+        "macro",
+        "dewy",
+        "white",
+        "single"
+      ],
+      "violets": [
+        "vibrant",
+        "deep purple"
+      ]
+    },
+    "position": "daisy casting a shadow over violets"
+  },
+  {
+    "prompt": "The first light of dawn illuminates a daisy and a violet blooming side by side.",
+    "subject": [
+      "daisy",
+      "violet"
+    ],
+    "count": {
+      "daisy": 1,
+      "violet": 1
+    },
+    "attribution": {
+      "daisy": [],
+      "violet": []
+    },
+    "position": "side by side"
+  },
+  {
+    "prompt": "A delicate, ethereal violet holds hands with a stern, clockwork daisy in a moonlit fantasy garden. Digital art.",
+    "subject": [
+      "daisy",
+      "violet"
+    ],
+    "count": {
+      "daisy": 1,
+      "violet": 1
+    },
+    "attribution": {
+      "daisy": [
+        "stern",
+        "clockwork"
+      ],
+      "violet": [
+        "delicate",
+        "ethereal"
+      ]
+    },
+    "position": "violet holds hands with daisy"
+  },
+  {
+    "prompt": "Numerous small daisies cover the rolling green hills, contrasting slightly with a few scattered, rare yellow violets nearby. Watercolor painting.",
+    "subject": [
+      "daisies",
+      "violets"
+    ],
+    "count": {
+      "daisies": 2,
+      "violets": 2
+    },
+    "attribution": {
+      "daisies": [
+        "small",
+        "numerous"
+      ],
+      "violets": [
+        "scattered",
+        "rare",
+        "yellow"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A dramatic chiaroscuro still life featuring a single long-stemmed violet leaning against a sturdy daisy.",
+    "subject": [
+      "daisy",
+      "violet"
+    ],
+    "count": {
+      "daisy": 1,
+      "violet": 1
+    },
+    "attribution": {
+      "daisy": [
+        "sturdy"
+      ],
+      "violet": [
+        "single",
+        "long-stemmed"
+      ]
+    },
+    "position": "violet leaning against daisy"
+  },
+  {
+    "prompt": "A nervous donkey is running behind a galloping brown horse, while a calm black and white cow grazes nearby, rendered in realistic digital art.",
+    "subject": [
+      "cow",
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "cow": 1,
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "cow": [
+        "calm",
+        "black and white"
+      ],
+      "horse": [
+        "galloping",
+        "brown"
+      ],
+      "donkey": [
+        "nervous"
+      ]
+    },
+    "position": "donkey behind horse"
+  },
+  {
+    "prompt": "Cinematic 8K photograph of a massive, ancient Highland cow standing next to a sleek, muscular war horse and a small, shaggy miniature donkey, volumetric lighting, desert landscape.",
+    "subject": [
+      "cow",
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "cow": 1,
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "cow": [
+        "massive",
+        "ancient",
+        "Highland"
+      ],
+      "horse": [
+        "sleek",
+        "muscular",
+        "war"
+      ],
+      "donkey": [
+        "small",
+        "shaggy",
+        "miniature"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Low poly 3D render of a cow, a horse, and a donkey floating together in a bubblegum pink cosmic void.",
+    "subject": [
+      "cow",
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "cow": 1,
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "cow": [],
+      "horse": [],
+      "donkey": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A powerful Clydesdale horse is playfully nudging a stubborn donkey who is trying to push a surprised dairy cow out of the path, oil painting style, vibrant colors.",
+    "subject": [
+      "cow",
+      "horse",
+      "donkey"
+    ],
+    "count": {
+      "cow": 1,
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "cow": [
+        "surprised",
+        "dairy"
+      ],
+      "horse": [
+        "powerful",
+        "Clydesdale"
+      ],
+      "donkey": [
+        "stubborn"
+      ]
+    },
+    "position": "horse nudging donkey and donkey pushing cow"
+  },
+  {
+    "prompt": "Vintage woodcut illustration of a majestic, armored horse carrying goods, followed by a weary gray donkey, observed by a single, horned cow from a thicket.",
+    "subject": [
+      "horse",
+      "donkey",
+      "cow"
+    ],
+    "count": {
+      "cow": 1,
+      "horse": 1,
+      "donkey": 1
+    },
+    "attribution": {
+      "cow": [
+        "single",
+        "horned"
+      ],
+      "horse": [
+        "majestic",
+        "armored"
+      ],
+      "donkey": [
+        "weary",
+        "gray"
+      ]
+    },
+    "position": "Donkey following horse; cow observes."
+  },
+  {
+    "prompt": "A small, terrified green frog clings to the shell and a vibrant crimson king snake coils tightly around the neck of a massive, ancient sea turtle, ready to strike.",
+    "subject": [
+      "frog",
+      "snake",
+      "turtle"
+    ],
+    "count": {
+      "frog": 1,
+      "snake": 1,
+      "turtle": 1
+    },
+    "attribution": {
+      "frog": [
+        "small",
+        "terrified",
+        "green"
+      ],
+      "snake": [
+        "vibrant",
+        "crimson",
+        "king"
+      ],
+      "turtle": [
+        "massive",
+        "ancient",
+        "sea"
+      ]
+    },
+    "position": "Frog clinging to turtle shell; snake coiled around turtle neck."
+  },
+  {
+    "prompt": "Watercolor illustration showing a wise old turtle offering advice to a grumpy little frog sitting next to it, completely unaware that a long black mamba snake is sleeping right under its belly.",
+    "subject": [
+      "frog",
+      "snake",
+      "turtle"
+    ],
+    "count": {
+      "frog": 1,
+      "snake": 1,
+      "turtle": 1
+    },
+    "attribution": {
+      "frog": [
+        "grumpy",
+        "little"
+      ],
+      "snake": [
+        "long",
+        "black",
+        "mamba"
+      ],
+      "turtle": [
+        "wise",
+        "old"
+      ]
+    },
+    "position": "Frog next to turtle; snake under turtle."
+  },
+  {
+    "prompt": "A hyper-detailed photograph of a psychedelic jungle scene where a single giant frog is balancing a small garden turtle on its head, and the entire scene is being observed by a looping python snake that encircles both creatures.",
+    "subject": [
+      "frog",
+      "snake",
+      "turtle"
+    ],
+    "count": {
+      "frog": 1,
+      "snake": 1,
+      "turtle": 1
+    },
+    "attribution": {
+      "frog": [
+        "giant"
+      ],
+      "snake": [
+        "looping",
+        "python"
+      ],
+      "turtle": [
+        "small",
+        "garden"
+      ]
+    },
+    "position": "Turtle balanced on frog's head; snake encircles both."
+  },
+  {
+    "prompt": "Oil painting, dramatic lighting. A perfectly still turtle is resting on a lily pad, while a bright blue poison dart frog jumps past it, completely oblivious to the coiled, emerald green snake hidden in the nearby reeds.",
+    "subject": [
+      "frog",
+      "snake",
+      "turtle"
+    ],
+    "count": {
+      "frog": 1,
+      "snake": 1,
+      "turtle": 1
+    },
+    "attribution": {
+      "frog": [
+        "bright",
+        "blue",
+        "poison",
+        "dart"
+      ],
+      "snake": [
+        "coiled",
+        "emerald",
+        "green"
+      ],
+      "turtle": [
+        "perfectly",
+        "still"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A cartoon sketch depicting a swift snake chasing two frogs across the back of a large, slow-moving turtle.",
+    "subject": [
+      "frogs",
+      "snake",
+      "turtle"
+    ],
+    "count": {
+      "frog": 2,
+      "snake": 1,
+      "turtle": 1
+    },
+    "attribution": {
+      "frog": [],
+      "snake": [
+        "swift"
+      ],
+      "turtle": [
+        "large",
+        "slow-moving"
+      ]
+    },
+    "position": "Snake chasing frogs; frogs on the back of the turtle."
+  },
+  {
+    "prompt": "Fierce armored war bear guarding a stealthy shadow-cloaked timber wolf. A shimmering three-tailed arctic fox watches from a rocky outcrop above. Hyperdetailed fantasy illustration.",
+    "subject": [
+      "bear",
+      "wolf",
+      "fox"
+    ],
+    "count": {
+      "bear": 1,
+      "wolf": 1,
+      "fox": 1
+    },
+    "attribution": {
+      "bear": [
+        "fierce",
+        "armored",
+        "war"
+      ],
+      "wolf": [
+        "stealthy",
+        "shadow-cloaked",
+        "timber"
+      ],
+      "fox": [
+        "shimmering",
+        "three-tailed",
+        "arctic"
+      ]
+    },
+    "position": "bear stands guard over wolf; fox watches from above"
+  },
+  {
+    "prompt": "Neon sign installation featuring a large grizzly bear, a howling grey wolf, and a sitting red fox. Vaporwave aesthetic, dark background.",
+    "subject": [
+      "bear",
+      "wolf",
+      "fox"
+    ],
+    "count": {
+      "bear": 1,
+      "wolf": 1,
+      "fox": 1
+    },
+    "attribution": {
+      "bear": [
+        "large",
+        "grizzly"
+      ],
+      "wolf": [
+        "howling",
+        "grey"
+      ],
+      "fox": [
+        "sitting",
+        "red"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A bear is aggressively chasing a wolf, which is scrambling away past a calm fox sitting by the riverbank. National Geographic photo.",
+    "subject": [
+      "bear",
+      "wolf",
+      "fox"
+    ],
+    "count": {
+      "bear": 1,
+      "wolf": 1,
+      "fox": 1
+    },
+    "attribution": {
+      "bear": [
+        "aggressively"
+      ],
+      "wolf": [
+        "scrambling"
+      ],
+      "fox": [
+        "calm"
+      ]
+    },
+    "position": "bear chasing wolf; wolf past fox"
+  },
+  {
+    "prompt": "Surreal oil painting of a brooding moss-covered brown bear, an elegant spectral white wolf, and a tiny mechanical brass fox ascending separate dreamlike staircases. Highly textured.",
+    "subject": [
+      "bear",
+      "wolf",
+      "fox"
+    ],
+    "count": {
+      "bear": 1,
+      "wolf": 1,
+      "fox": 1
+    },
+    "attribution": {
+      "bear": [
+        "brooding",
+        "brown",
+        "moss-covered"
+      ],
+      "wolf": [
+        "elegant",
+        "spectral",
+        "white"
+      ],
+      "fox": [
+        "tiny",
+        "mechanical",
+        "brass"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Low-poly 3D render of a goofy forest bear carrying a weary grey wolf. A clever desert fox navigates ahead, pointing the way. Stylized cartoon graphics.",
+    "subject": [
+      "bear",
+      "wolf",
+      "fox"
+    ],
+    "count": {
+      "bear": 1,
+      "wolf": 1,
+      "fox": 1
+    },
+    "attribution": {
+      "bear": [
+        "goofy",
+        "forest"
+      ],
+      "wolf": [
+        "weary",
+        "grey"
+      ],
+      "fox": [
+        "clever",
+        "desert"
+      ]
+    },
+    "position": "bear carrying wolf; fox ahead of them"
+  },
+  {
+    "prompt": "Ferocious orange tiger chasing a terrified white rabbit through a dense jungle. A sneaky Siamese cat watches from a nearby tree branch.",
+    "subject": [
+      "tiger",
+      "rabbit",
+      "cat"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "cat": [
+        "sneaky",
+        "Siamese"
+      ],
+      "tiger": [
+        "ferocious",
+        "orange"
+      ],
+      "rabbit": [
+        "terrified",
+        "white"
+      ]
+    },
+    "position": "Tiger chasing rabbit"
+  },
+  {
+    "prompt": "A pastel-colored illustration depicting a house cat, a massive tiger, and a small rabbit floating randomly in deep space.",
+    "subject": [
+      "cat",
+      "tiger",
+      "rabbit"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "cat": [
+        "house"
+      ],
+      "tiger": [
+        "massive"
+      ],
+      "rabbit": [
+        "small"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Cinematic matte painting of a small frightened domestic cat huddled beside a massive sleeping Bengal tiger, observing a nervous twitching brown rabbit.",
+    "subject": [
+      "cat",
+      "tiger",
+      "rabbit"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "cat": [
+        "small",
+        "frightened",
+        "domestic"
+      ],
+      "tiger": [
+        "massive",
+        "sleeping",
+        "Bengal"
+      ],
+      "rabbit": [
+        "nervous",
+        "twitching",
+        "brown"
+      ]
+    },
+    "position": "Cat huddled beside tiger"
+  },
+  {
+    "prompt": "Humorous cartoon drawing: a tiny victorious house cat stands on a bewildered tiger's head, who balances a massive golden rabbit under one paw.",
+    "subject": [
+      "cat",
+      "tiger",
+      "rabbit"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "cat": [
+        "tiny",
+        "house",
+        "victorious"
+      ],
+      "tiger": [
+        "bewildered"
+      ],
+      "rabbit": [
+        "massive",
+        "golden"
+      ]
+    },
+    "position": "Cat standing on tiger's head; tiger balancing rabbit underneath"
+  },
+  {
+    "prompt": "Minimalist vector art, highly detailed, showing a striped tiger, a calm ginger cat, and a fluffy white rabbit arranged harmoniously.",
+    "subject": [
+      "cat",
+      "tiger",
+      "rabbit"
+    ],
+    "count": {
+      "cat": 1,
+      "tiger": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "cat": [
+        "calm",
+        "ginger"
+      ],
+      "tiger": [
+        "striped"
+      ],
+      "rabbit": [
+        "fluffy",
+        "white"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A dramatic chiaroscuro still life painting showing a crimson rose draped over the golden head of a sunflower, with a cluster of vibrant purple tulips standing in shadow behind them.",
+    "subject": [
+      "rose",
+      "sunflower",
+      "tulips"
+    ],
+    "count": {
+      "rose": 1,
+      "sunflower": 1,
+      "tulips": 1
+    },
+    "attribution": {
+      "rose": [
+        "dramatic",
+        "chiaroscuro",
+        "still life",
+        "crimson",
+        "draped"
+      ],
+      "sunflower": [
+        "golden head"
+      ],
+      "tulips": [
+        "vibrant",
+        "purple",
+        "cluster"
+      ]
+    },
+    "position": "Rose draped over sunflower; tulips behind them"
+  },
+  {
+    "prompt": "Three simple flowers, a rose, a sunflower, and a tulip, emerging from cracked earth during a global drought, captured in a monochrome photojournalistic style.",
+    "subject": [
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "count": {
+      "rose": 1,
+      "sunflower": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "simple"
+      ],
+      "sunflower": [
+        "simple"
+      ],
+      "tulip": [
+        "simple"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An astronaut floats past a colossal, bioluminescent rose gripping a startled sunflower, while a tiny, metallic blue tulip sprouts from the astronaut's helmet.",
+    "subject": [
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "count": {
+      "rose": 1,
+      "sunflower": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "colossal",
+        "bioluminescent",
+        "gripping"
+      ],
+      "sunflower": [
+        "startled"
+      ],
+      "tulip": [
+        "tiny",
+        "metallic",
+        "blue"
+      ]
+    },
+    "position": "Rose gripping sunflower"
+  },
+  {
+    "prompt": "Ukiyo-e woodblock print depicting a magnificent, idealized rose, a bright yellow sunflower, and an elegant white tulip floating gently on a calm river surface at dawn.",
+    "subject": [
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "count": {
+      "rose": 1,
+      "sunflower": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "magnificent",
+        "idealized"
+      ],
+      "sunflower": [
+        "bright",
+        "yellow"
+      ],
+      "tulip": [
+        "elegant",
+        "white"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Macro shot of a single, withered rose attempting to crush a terrified sunflower beneath its thorny stem, observed by a pale, silently weeping tulip.",
+    "subject": [
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "count": {
+      "rose": 1,
+      "sunflower": 1,
+      "tulip": 1
+    },
+    "attribution": {
+      "rose": [
+        "single",
+        "withered",
+        "thorny",
+        "attempting to crush"
+      ],
+      "sunflower": [
+        "terrified"
+      ],
+      "tulip": [
+        "pale",
+        "silently weeping"
+      ]
+    },
+    "position": "Rose crushing sunflower"
+  },
+  {
+    "prompt": "A chrome-plated bike leaning against a brightly colored scooter, while a battered wooden skateboard rests underneath them.",
+    "subject": [
+      "bike",
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "bike": [
+        "chrome-plated"
+      ],
+      "scooter": [
+        "brightly colored"
+      ],
+      "skateboard": [
+        "battered wooden"
+      ]
+    },
+    "position": "bike leaning against scooter, skateboard underneath both"
+  },
+  {
+    "prompt": "An intricate Art Nouveau illustration featuring a gilded velocipede bike, a delicate porcelain scooter, and a futuristic glowing carbon fiber skateboard, floating in a nebula.",
+    "subject": [
+      "bike",
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "bike": [
+        "intricate",
+        "Art Nouveau",
+        "gilded",
+        "velocipede"
+      ],
+      "scooter": [
+        "delicate",
+        "porcelain"
+      ],
+      "skateboard": [
+        "futuristic",
+        "glowing",
+        "carbon fiber"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A lone desert traveler carrying an antique bike, balancing a rusty metal scooter, and kicking a small, sleek skateboard across red sand dunes.",
+    "subject": [
+      "bike",
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "bike": [
+        "antique"
+      ],
+      "scooter": [
+        "rusty",
+        "metal"
+      ],
+      "skateboard": [
+        "small",
+        "sleek"
+      ]
+    },
+    "position": "traveler carrying bike next to traveler balancing scooter next to traveler kicking skateboard"
+  },
+  {
+    "prompt": "Concept art showing a simple, stylized bike, a standard scooter, and a plain wooden skateboard lying on a cobblestone street at dawn.",
+    "subject": [
+      "bike",
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "bike": [
+        "simple",
+        "stylized"
+      ],
+      "scooter": [
+        "standard"
+      ],
+      "skateboard": [
+        "plain",
+        "wooden"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A dynamic photograph of a stunt rider jumping a large BMX bike over an overturned red scooter, while a professional racing skateboard rests prominently in the foreground.",
+    "subject": [
+      "bike",
+      "scooter",
+      "skateboard"
+    ],
+    "count": {
+      "bike": 1,
+      "scooter": 1,
+      "skateboard": 1
+    },
+    "attribution": {
+      "bike": [
+        "dynamic",
+        "stunt",
+        "large",
+        "BMX"
+      ],
+      "scooter": [
+        "overturned",
+        "red"
+      ],
+      "skateboard": [
+        "professional",
+        "racing",
+        "prominently"
+      ]
+    },
+    "position": "bike jumping over scooter"
+  },
+  {
+    "prompt": "Hyperrealistic still life: a ripe yellow banana leaning on a glossy red apple, a slightly peeled navel orange placed beside them.",
+    "subject": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "banana": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "banana": [
+        "ripe",
+        "yellow"
+      ],
+      "apple": [
+        "glossy",
+        "red"
+      ],
+      "orange": [
+        "slightly peeled",
+        "navel"
+      ]
+    },
+    "position": "Banana leaning against apple, orange placed beside them."
+  },
+  {
+    "prompt": "A floating, slightly bruised banana attempting to peel a shiny, reflective green apple while a gigantic, glowing orange orbits them both in a swirling nebula.",
+    "subject": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "banana": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "banana": [
+        "floating",
+        "slightly bruised"
+      ],
+      "apple": [
+        "shiny",
+        "reflective",
+        "green"
+      ],
+      "orange": [
+        "gigantic",
+        "glowing"
+      ]
+    },
+    "position": "Banana attempting to peel apple, orange orbiting them."
+  },
+  {
+    "prompt": "An impressionistic oil painting of a picnic where three pieces of fruit lay scattered: a half-eaten banana, a crisp green apple, and a sweet clementine orange.",
+    "subject": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "banana": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "banana": [
+        "half-eaten"
+      ],
+      "apple": [
+        "crisp",
+        "green"
+      ],
+      "orange": [
+        "sweet",
+        "clementine"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A fiercely determined, muscular banana running away from a menacing, bruised red apple, while a small, giggling orange rolls excitedly in front of the chase.",
+    "subject": [
+      "banana",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "banana": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "banana": [
+        "fiercely determined",
+        "muscular"
+      ],
+      "apple": [
+        "menacing",
+        "bruised",
+        "red"
+      ],
+      "orange": [
+        "small",
+        "giggling",
+        "excitedly"
+      ]
+    },
+    "position": "Banana running away from apple, orange rolling in front of the chase."
+  },
+  {
+    "prompt": "A conceptual, minimalist digital illustration showing a single, solitary banana balanced precariously on top of a Fuji apple, next to a segmented orange slice.",
+    "subject": [
+      "banana",
+      "apple",
+      "orange slice"
+    ],
+    "count": {
+      "banana": 1,
+      "apple": 1,
+      "orange slice": 1
+    },
+    "attribution": {
+      "banana": [
+        "single",
+        "solitary"
+      ],
+      "apple": [
+        "Fuji"
+      ],
+      "orange slice": [
+        "segmented"
+      ]
+    },
+    "position": "Banana balanced on top of apple, next to orange slice."
+  },
+  {
+    "prompt": "A massive, grizzled bear standing defensively while a regal, scarred lion watches intently from a rocky ledge above, observed by a sleek, striped tiger stalking silently behind him.",
+    "subject": [
+      "bear",
+      "lion",
+      "tiger"
+    ],
+    "count": {
+      "bear": 1,
+      "lion": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "bear": [
+        "massive",
+        "grizzled",
+        "standing defensively"
+      ],
+      "lion": [
+        "regal",
+        "scarred",
+        "watches intently"
+      ],
+      "tiger": [
+        "sleek",
+        "striped",
+        "stalking silently"
+      ]
+    },
+    "position": "Lion above bear, tiger behind lion"
+  },
+  {
+    "prompt": "An intricate digital collage depicting a tranquil bear, a roaring lion, and a curious tiger merged with industrial cityscapes, highly detailed matte painting.",
+    "subject": [
+      "bear",
+      "lion",
+      "tiger"
+    ],
+    "count": {
+      "bear": 1,
+      "lion": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "bear": [
+        "tranquil"
+      ],
+      "lion": [
+        "roaring"
+      ],
+      "tiger": [
+        "curious"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A telephoto lens shot capturing a playful brown bear chasing a startled male lion across a sun-drenched savanna, with a powerful Siberian tiger standing guard near a cluster of acacia trees.",
+    "subject": [
+      "bear",
+      "lion",
+      "tiger"
+    ],
+    "count": {
+      "bear": 1,
+      "lion": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "bear": [
+        "playful",
+        "brown",
+        "chasing"
+      ],
+      "lion": [
+        "startled",
+        "male"
+      ],
+      "tiger": [
+        "powerful",
+        "Siberian",
+        "standing guard"
+      ]
+    },
+    "position": "Bear chasing lion"
+  },
+  {
+    "prompt": "Geometric low-poly rendering of three ancient spirits: a bear, a lion, and a tiger, floating in a void of fractured glass and neon light.",
+    "subject": [
+      "bear",
+      "lion",
+      "tiger"
+    ],
+    "count": {
+      "bear": 1,
+      "lion": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "bear": [],
+      "lion": [],
+      "tiger": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Highly saturated horror photography: A terrifying, mutated, struggling grizzly bear holding the severed head of a massive African lion, while a demonic, shadowy tiger looms menacingly behind it.",
+    "subject": [
+      "bear",
+      "lion",
+      "tiger"
+    ],
+    "count": {
+      "bear": 1,
+      "lion": 1,
+      "tiger": 1
+    },
+    "attribution": {
+      "bear": [
+        "terrifying",
+        "mutated",
+        "grizzly",
+        "holding"
+      ],
+      "lion": [
+        "massive",
+        "African",
+        "severed head of"
+      ],
+      "tiger": [
+        "demonic",
+        "shadowy",
+        "menacingly",
+        "looms"
+      ]
+    },
+    "position": "Tiger behind bear"
+  },
+  {
+    "prompt": "A macro photograph of a sapphire hummingbird chasing a monarch butterfly, narrowly missing a giant fuzzy bumblebee resting on a purple thistle.",
+    "subject": [
+      "hummingbird",
+      "butterfly",
+      "bumblebee"
+    ],
+    "count": {
+      "hummingbird": 1,
+      "butterfly": 1,
+      "bumblebee": 1
+    },
+    "attribution": {
+      "hummingbird": [
+        "sapphire"
+      ],
+      "butterfly": [
+        "monarch"
+      ],
+      "bumblebee": [
+        "giant",
+        "fuzzy"
+      ]
+    },
+    "position": "Hummingbird chasing Monarch butterfly, narrowly missing Bumblebee"
+  },
+  {
+    "prompt": "Elegant minimalist single-line art drawing of a common garden bird, a small orange butterfly, and a tiny honey bee.",
+    "subject": [
+      "bird",
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "bird": 1,
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "bird": [
+        "common",
+        "garden"
+      ],
+      "butterfly": [
+        "small",
+        "orange"
+      ],
+      "bee": [
+        "tiny",
+        "honey"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Epic dark fantasy concept art showing a massive raven holding a glowing blue butterfly in its beak, while a swarm of aggressive metallic bees attacks the raven's head.",
+    "subject": [
+      "raven",
+      "butterfly",
+      "bees"
+    ],
+    "count": {
+      "raven": 1,
+      "butterfly": 1,
+      "bees": 1
+    },
+    "attribution": {
+      "raven": [
+        "massive"
+      ],
+      "butterfly": [
+        "glowing",
+        "blue"
+      ],
+      "bees": [
+        "aggressive",
+        "metallic",
+        "swarm"
+      ]
+    },
+    "position": "Raven holding Butterfly, swarm of Bees attacking Raven"
+  },
+  {
+    "prompt": "A soft pastel illustration of a finch perched on a branch, observing a yellow butterfly fluttering past, near a working solitary bee.",
+    "subject": [
+      "finch",
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "finch": 1,
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "finch": [],
+      "butterfly": [
+        "yellow"
+      ],
+      "bee": [
+        "working",
+        "solitary"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An intricate watercolor painting depicting a majestic iridescent bird standing on a large sunflower, ignoring a butterfly and a small bee hovering above its head.",
+    "subject": [
+      "bird",
+      "butterfly",
+      "bee"
+    ],
+    "count": {
+      "bird": 1,
+      "butterfly": 1,
+      "bee": 1
+    },
+    "attribution": {
+      "bird": [
+        "majestic",
+        "iridescent"
+      ],
+      "butterfly": [],
+      "bee": [
+        "small"
+      ]
+    },
+    "position": "Bee hovering above Bird"
+  },
+  {
+    "prompt": "A grumpy, mustachioed potato wearing a tiny bowler hat hides behind a giant, luminous orange carrot, holding a crying purple onion. Cinematic lighting, deep shadows.",
+    "subject": [
+      "potato",
+      "carrot",
+      "onion"
+    ],
+    "count": {
+      "potato": 1,
+      "carrot": 1,
+      "onion": 1
+    },
+    "attribution": {
+      "potato": [
+        "grumpy",
+        "mustachioed",
+        "wearing a tiny bowler hat"
+      ],
+      "carrot": [
+        "giant",
+        "luminous",
+        "orange"
+      ],
+      "onion": [
+        "crying",
+        "purple"
+      ]
+    },
+    "position": "Potato hides behind carrot, holding onion"
+  },
+  {
+    "prompt": "A classic Flemish oil painting depicting a single potato resting on a velvet cloth next to a carrot and a small white onion. Dark atmosphere, museum quality.",
+    "subject": [
+      "potato",
+      "carrot",
+      "onion"
+    ],
+    "count": {
+      "potato": 1,
+      "carrot": 1,
+      "onion": 1
+    },
+    "attribution": {
+      "carrot": [],
+      "potato": [],
+      "onion": [
+        "small",
+        "white"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Macro photography of a shimmering, crystallized carrot spaceship engine launching away from a colossal, textured potato, which pulls a spiral galaxy of floating blue onions.",
+    "subject": [
+      "carrot",
+      "potato",
+      "onions"
+    ],
+    "count": {
+      "carrot": 1,
+      "potato": 1,
+      "onions": 1
+    },
+    "attribution": {
+      "carrot": [
+        "shimmering",
+        "crystallized",
+        "spaceship engine"
+      ],
+      "potato": [
+        "colossal",
+        "textured"
+      ],
+      "onions": [
+        "floating",
+        "blue"
+      ]
+    },
+    "position": "Carrot launching away from potato, potato pulls onions"
+  },
+  {
+    "prompt": "A gritty, cyberpunk graphic novel panel showing three heroic carrots standing fiercely upon a mountain made entirely of potatoes, while a massive, glowing onion hovers menacingly above them.",
+    "subject": [
+      "carrots",
+      "potatoes",
+      "onion"
+    ],
+    "count": {
+      "carrots": 3,
+      "potatoes": 1,
+      "onion": 1
+    },
+    "attribution": {
+      "carrots": [
+        "heroic",
+        "fiercely standing"
+      ],
+      "potatoes": [
+        "mountain made entirely of"
+      ],
+      "onion": [
+        "massive",
+        "glowing",
+        "menacingly hovering"
+      ]
+    },
+    "position": "Onion hovers above carrots standing on potato"
+  },
+  {
+    "prompt": "Photorealistic render of a perfectly smooth, gold-plated potato lying beside a reflective chrome carrot and a matte black onion on a seamless white backdrop. Studio lighting, octane render.",
+    "subject": [
+      "potato",
+      "carrot",
+      "onion"
+    ],
+    "count": {
+      "potato": 1,
+      "carrot": 1,
+      "onion": 1
+    },
+    "attribution": {
+      "carrot": [
+        "reflective",
+        "chrome"
+      ],
+      "potato": [
+        "perfectly smooth",
+        "gold-plated"
+      ],
+      "onion": [
+        "matte black"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A regal Siamese cat wearing a tiny crown is sitting on the head of a massive, fluffy arctic rabbit, while a nervous golden hamster peeks out from its ear.",
+    "subject": [
+      "cat",
+      "rabbit",
+      "hamster"
+    ],
+    "count": {
+      "cat": 1,
+      "rabbit": 1,
+      "hamster": 1
+    },
+    "attribution": {
+      "cat": [
+        "regal",
+        "Siamese",
+        "wearing a tiny crown"
+      ],
+      "rabbit": [
+        "massive",
+        "fluffy",
+        "arctic"
+      ],
+      "hamster": [
+        "nervous",
+        "golden"
+      ]
+    },
+    "position": "Cat sitting on Rabbit; Hamster near Rabbit's ear"
+  },
+  {
+    "prompt": "Watercolor illustration showing a fluffy purple rabbit gently holding a small brown hamster, both observing a sleek, black cat sleeping peacefully nearby.",
+    "subject": [
+      "cat",
+      "rabbit",
+      "hamster"
+    ],
+    "count": {
+      "cat": 1,
+      "rabbit": 1,
+      "hamster": 1
+    },
+    "attribution": {
+      "cat": [
+        "sleek",
+        "black",
+        "sleeping peacefully"
+      ],
+      "rabbit": [
+        "fluffy",
+        "purple",
+        "gently holding"
+      ],
+      "hamster": [
+        "small",
+        "brown"
+      ]
+    },
+    "position": "Rabbit holding Hamster"
+  },
+  {
+    "prompt": "Cinematic wide shot of a cat, a rabbit, and a hamster running across a dusty desert road at dawn, digital painting.",
+    "subject": [
+      "cat",
+      "rabbit",
+      "hamster"
+    ],
+    "count": {
+      "cat": 1,
+      "rabbit": 1,
+      "hamster": 1
+    },
+    "attribution": {
+      "cat": [],
+      "rabbit": [],
+      "hamster": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "An old 1950s cartoon rendering of a mischievous ginger cat chasing a quick-footed field rabbit, who is desperately trying to protect the tiny, startled pet hamster clutched in its paws.",
+    "subject": [
+      "cat",
+      "rabbit",
+      "hamster"
+    ],
+    "count": {
+      "cat": 1,
+      "rabbit": 1,
+      "hamster": 1
+    },
+    "attribution": {
+      "cat": [
+        "mischievous",
+        "ginger",
+        "chasing"
+      ],
+      "rabbit": [
+        "quick-footed",
+        "field",
+        "desperately trying to protect"
+      ],
+      "hamster": [
+        "tiny",
+        "startled",
+        "pet"
+      ]
+    },
+    "position": "Cat chasing Rabbit; Rabbit clutching Hamster"
+  },
+  {
+    "prompt": "Minimalist vector art poster featuring a cat, a rabbit, and a hamster arranged in a row.",
+    "subject": [
+      "cat",
+      "rabbit",
+      "hamster"
+    ],
+    "count": {
+      "cat": 1,
+      "rabbit": 1,
+      "hamster": 1
+    },
+    "attribution": {
+      "cat": [],
+      "rabbit": [],
+      "hamster": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A glossy, high-definition basketball resting atop a giant, metallic baseball being meticulously polished by an ethereal, glowing volleyball.",
+    "subject": [
+      "basketball",
+      "volleyball",
+      "baseball"
+    ],
+    "count": {
+      "basketball": 1,
+      "volleyball": 1,
+      "baseball": 1
+    },
+    "attribution": {
+      "basketball": [
+        "glossy",
+        "high-definition",
+        "resting"
+      ],
+      "volleyball": [
+        "ethereal",
+        "glowing",
+        "polishing"
+      ],
+      "baseball": [
+        "giant",
+        "metallic",
+        "being polished"
+      ]
+    },
+    "position": "basketball atop baseball"
+  },
+  {
+    "prompt": "An illustration of a slightly worn volleyball bouncing near a regulation-size basketball and a freshly signed baseball placed on an old gym floor.",
+    "subject": [
+      "basketball",
+      "volleyball",
+      "baseball"
+    ],
+    "count": {
+      "basketball": 1,
+      "volleyball": 1,
+      "baseball": 1
+    },
+    "attribution": {
+      "basketball": [
+        "regulation-size"
+      ],
+      "volleyball": [
+        "slightly worn",
+        "bouncing"
+      ],
+      "baseball": [
+        "freshly signed",
+        "placed"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Close-up cinematic photograph capturing a grizzled athlete's hand squeezing a leather basketball while his other hand points an antique compass toward a volleyball behind a single, dirt-stained baseball.",
+    "subject": [
+      "basketball",
+      "volleyball",
+      "baseball"
+    ],
+    "count": {
+      "basketball": 1,
+      "volleyball": 1,
+      "baseball": 1
+    },
+    "attribution": {
+      "basketball": [
+        "leather",
+        "being squeezed"
+      ],
+      "volleyball": [
+        "pile"
+      ],
+      "baseball": [
+        "single",
+        "dirt-stained"
+      ]
+    },
+    "position": "volleyballs behind baseball"
+  },
+  {
+    "prompt": "A minimalist vector graphic showing a baseball balancing precariously on the very top valve of a brightly colored volleyball, while a simple dark silhouette of a basketball looms in the foreground.",
+    "subject": [
+      "basketball",
+      "volleyball",
+      "baseball"
+    ],
+    "count": {
+      "basketball": 1,
+      "volleyball": 1,
+      "baseball": 1
+    },
+    "attribution": {
+      "basketball": [
+        "simple",
+        "dark silhouette",
+        "looming"
+      ],
+      "volleyball": [
+        "brightly colored"
+      ],
+      "baseball": [
+        "balancing precariously"
+      ]
+    },
+    "position": "baseball on volleyball"
+  },
+  {
+    "prompt": "In a cosmic battle scene, a crystalline volleyball is orbiting rapidly around a fiery basketball, which is hurtling through space beside an ancient, cracked baseball. Digital painting, deep space, nebula background.",
+    "subject": [
+      "basketball",
+      "volleyball",
+      "baseball"
+    ],
+    "count": {
+      "basketball": 1,
+      "volleyball": 1,
+      "baseball": 1
+    },
+    "attribution": {
+      "basketball": [
+        "fiery",
+        "hurtling"
+      ],
+      "volleyball": [
+        "crystalline",
+        "orbiting rapidly"
+      ],
+      "baseball": [
+        "ancient",
+        "cracked"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A glistening, dew-covered red apple resting beside a soft, fuzzy peach, with a perfectly ripe green pear standing tall behind them, highly detailed still life painting, oil on canvas.",
+    "subject": [
+      "pear",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "pear": [
+        "perfectly ripe",
+        "green",
+        "tall"
+      ],
+      "apple": [
+        "glistening",
+        "dew-covered",
+        "red"
+      ],
+      "peach": [
+        "soft",
+        "fuzzy"
+      ]
+    },
+    "position": "Apple resting beside peach, pear behind them"
+  },
+  {
+    "prompt": "An apple, a pear, and a peach arranged neatly on a dark marble countertop, photorealistic, harsh studio lighting.",
+    "subject": [
+      "pear",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "pear": [],
+      "apple": [],
+      "peach": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A mischievous cartoon pear attempting to steal a shiny golden apple that is being guarded fiercely by a grumpy, armored peach, volumetric shadows, cinematic angle.",
+    "subject": [
+      "pear",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "pear": [
+        "mischievous",
+        "cartoon"
+      ],
+      "apple": [
+        "shiny",
+        "golden"
+      ],
+      "peach": [
+        "grumpy",
+        "armored"
+      ]
+    },
+    "position": "Pear attempting to steal apple, apple guarded by peach"
+  },
+  {
+    "prompt": "Macro photography of a geometrically fragmented yellow pear, a hyper-detailed bruised apple texture, and a melting, ethereal peach slice, 8K, depth of field.",
+    "subject": [
+      "pear",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "pear": [
+        "geometrically fragmented",
+        "yellow"
+      ],
+      "apple": [
+        "hyper-detailed",
+        "bruised"
+      ],
+      "peach": [
+        "melting",
+        "ethereal"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A tiny astronaut sitting atop a giant, sparkling pink peach, waving a flag toward a friendly green pear hovering, while a regular-sized apple sits on the ground, fantasy illustration style.",
+    "subject": [
+      "pear",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "pear": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "pear": [
+        "friendly",
+        "green",
+        "hovering"
+      ],
+      "apple": [
+        "regular-sized"
+      ],
+      "peach": [
+        "giant",
+        "sparkling",
+        "pink"
+      ]
+    },
+    "position": "Peach is below pear, apple is below peach"
+  },
+  {
+    "prompt": "A hyperdetailed oil painting depicting a perfectly ripe red tomato balanced on a shiny green apple, with a slightly bruised, fuzzy peach resting nearby on a velvet cloth.",
+    "subject": [
+      "tomato",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "tomato": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "tomato": [
+        "hyperdetailed",
+        "oil painting",
+        "perfectly ripe",
+        "red"
+      ],
+      "apple": [
+        "shiny",
+        "green"
+      ],
+      "peach": [
+        "slightly bruised",
+        "fuzzy"
+      ]
+    },
+    "position": "tomato balanced on apple, peach resting nearby"
+  },
+  {
+    "prompt": "Three anthropomorphic fruits: a small tomato, a large apple, and a tired peach, walking down a cobblestone street at dusk.",
+    "subject": [
+      "tomato",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "tomato": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "tomato": [
+        "small",
+        "anthropomorphic"
+      ],
+      "apple": [
+        "large",
+        "anthropomorphic"
+      ],
+      "peach": [
+        "tired",
+        "anthropomorphic"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Macro photograph, extreme depth of field, showing a glowing, irradiated tomato dissolving into a pink peach, while a floating metallic apple hovers above the bizarre scene.",
+    "subject": [
+      "tomato",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "tomato": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "tomato": [
+        "glowing",
+        "irradiated"
+      ],
+      "apple": [
+        "floating",
+        "metallic"
+      ],
+      "peach": [
+        "pink"
+      ]
+    },
+    "position": "tomato dissolving into peach, apple hovers above"
+  },
+  {
+    "prompt": "Digital illustration suitable for a children's book cover: A friendly tomato character is smiling next to a plain apple and a basic peach.",
+    "subject": [
+      "tomato",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "tomato": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "tomato": [
+        "friendly",
+        "character"
+      ],
+      "apple": [
+        "plain"
+      ],
+      "peach": [
+        "basic"
+      ]
+    },
+    "position": "tomato next to apple"
+  },
+  {
+    "prompt": "A Baroque masterpiece depicting a dark, withered tomato placed beneath a polished, golden apple, which is being worshipped by a grotesque, screaming peach in shadow.",
+    "subject": [
+      "tomato",
+      "apple",
+      "peach"
+    ],
+    "count": {
+      "tomato": 1,
+      "apple": 1,
+      "peach": 1
+    },
+    "attribution": {
+      "tomato": [
+        "dark",
+        "withered"
+      ],
+      "apple": [
+        "polished",
+        "golden"
+      ],
+      "peach": [
+        "grotesque",
+        "screaming"
+      ]
+    },
+    "position": "tomato beneath apple"
+  },
+  {
+    "prompt": "Hyperdetailed digital painting: A monumental crimson tulip beneath a slender white lily, with a single golden daffodil resting on the lily's petal.",
+    "subject": [
+      "lily",
+      "tulip",
+      "daffodil"
+    ],
+    "count": {
+      "lily": 1,
+      "tulip": 1,
+      "daffodil": 1
+    },
+    "attribution": {
+      "lily": [
+        "slender",
+        "white"
+      ],
+      "tulip": [
+        "monumental",
+        "crimson"
+      ],
+      "daffodil": [
+        "single",
+        "golden"
+      ]
+    },
+    "position": "Tulip beneath Lily, Daffodil resting on Lily's petal"
+  },
+  {
+    "prompt": "Graphite sketch of a lily, a tulip, and a daffodil, clustered closely together against a plain white background.",
+    "subject": [
+      "lily",
+      "tulip",
+      "daffodil"
+    ],
+    "count": {
+      "lily": 1,
+      "tulip": 1,
+      "daffodil": 1
+    },
+    "attribution": {
+      "lily": [],
+      "tulip": [],
+      "daffodil": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Vibrant photograph of a shimmering hummingbird above a vibrant orange tulip. The tulip stands next to a proud purple lily and a small yellow daffodil.",
+    "subject": [
+      "lily",
+      "tulip",
+      "daffodil"
+    ],
+    "count": {
+      "lily": 1,
+      "tulip": 1,
+      "daffodil": 1
+    },
+    "attribution": {
+      "lily": [
+        "proud",
+        "purple"
+      ],
+      "tulip": [
+        "vibrant",
+        "orange"
+      ],
+      "daffodil": [
+        "small",
+        "yellow"
+      ]
+    },
+    "position": "Hummingbird above Tulip, Tulip next to Lily"
+  },
+  {
+    "prompt": "Ukiyo-e style woodblock print featuring tall, pale lilies, freshly bloomed red tulips, and several bright, flourishing daffodils, viewed from a high angle.",
+    "subject": [
+      "lilies",
+      "tulips",
+      "daffodils"
+    ],
+    "count": {
+      "lilies": 2,
+      "tulips": 2,
+      "daffodils": 3
+    },
+    "attribution": {
+      "lilies": [
+        "tall",
+        "pale"
+      ],
+      "tulips": [
+        "freshly bloomed",
+        "red"
+      ],
+      "daffodils": [
+        "bright",
+        "flourishing"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A dramatic film still captured at dusk: a heavy, wilting lily leans against the robust stem of a glowing white daffodil, while a single, dark purple tulip shadows both of them.",
+    "subject": [
+      "lily",
+      "tulip",
+      "daffodil"
+    ],
+    "count": {
+      "lily": 1,
+      "tulip": 1,
+      "daffodil": 1
+    },
+    "attribution": {
+      "lily": [
+        "heavy",
+        "wilting"
+      ],
+      "tulip": [
+        "single",
+        "dark purple"
+      ],
+      "daffodil": [
+        "robust",
+        "glowing",
+        "white"
+      ]
+    },
+    "position": "Lily leans against Daffodil, Tulip shadows them"
+  },
+  {
+    "prompt": "A classical Dutch still life, painted in oil, featuring a single crimson rose situated beside a delicate yellow daffodil and a perfectly formed purple striped tulip.",
+    "subject": [
+      "tulip",
+      "daffodil",
+      "rose"
+    ],
+    "count": {
+      "tulip": 1,
+      "daffodil": 1,
+      "rose": 1
+    },
+    "attribution": {
+      "tulip": [
+        "perfectly formed",
+        "purple",
+        "striped"
+      ],
+      "daffodil": [
+        "delicate",
+        "yellow"
+      ],
+      "rose": [
+        "single",
+        "crimson"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surreal meadow scene: A nervous, striped tulip wearing a small straw hat hides behind a voluminous, aggressive thorny rose. A massive golden daffodil watches from above.",
+    "subject": [
+      "tulip",
+      "daffodil",
+      "rose"
+    ],
+    "count": {
+      "tulip": 1,
+      "daffodil": 1,
+      "rose": 1
+    },
+    "attribution": {
+      "tulip": [
+        "nervous",
+        "striped",
+        "wearing a small straw hat"
+      ],
+      "daffodil": [
+        "massive",
+        "golden"
+      ],
+      "rose": [
+        "voluminous",
+        "aggressive",
+        "thorny"
+      ]
+    },
+    "position": "Tulip hides behind Rose, Daffodil watches from above"
+  },
+  {
+    "prompt": "A photorealistic image where a dark red rose is delicately holding a pale pink tulip in its petals, while a nearby common daffodil is swaying gently in the breeze.",
+    "subject": [
+      "tulip",
+      "daffodil",
+      "rose"
+    ],
+    "count": {
+      "tulip": 1,
+      "daffodil": 1,
+      "rose": 1
+    },
+    "attribution": {
+      "tulip": [
+        "pale pink"
+      ],
+      "daffodil": [
+        "common"
+      ],
+      "rose": [
+        "dark red"
+      ]
+    },
+    "position": "rose holding tulip"
+  },
+  {
+    "prompt": "High-contrast technical blueprint drawing of a futuristic metallic tulip, an industrial-strength yellow daffodil, and a beautifully etched steel rose.",
+    "subject": [
+      "tulip",
+      "daffodil",
+      "rose"
+    ],
+    "count": {
+      "tulip": 1,
+      "daffodil": 1,
+      "rose": 1
+    },
+    "attribution": {
+      "tulip": [
+        "futuristic",
+        "metallic"
+      ],
+      "daffodil": [
+        "industrial-strength",
+        "yellow"
+      ],
+      "rose": [
+        "beautifully etched",
+        "steel"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Dramatic chiaroscuro photograph capturing a solitary, darkly withered rose draped over a bright, pristine white tulip. A single, perfect yellow daffodil stands behind the arrangement.",
+    "subject": [
+      "tulip",
+      "daffodil",
+      "rose"
+    ],
+    "count": {
+      "tulip": 1,
+      "daffodil": 1,
+      "rose": 1
+    },
+    "attribution": {
+      "tulip": [
+        "bright",
+        "pristine white"
+      ],
+      "daffodil": [
+        "single",
+        "perfect",
+        "yellow"
+      ],
+      "rose": [
+        "solitary",
+        "darkly withered"
+      ]
+    },
+    "position": "Rose draped over Tulip, Daffodil behind arrangement"
+  },
+  {
+    "prompt": "A nervous, sweating potato hides behind a towering, mystical parsnip as a sharp carrot glares down.",
+    "subject": [
+      "carrot",
+      "potato",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "potato": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "sharp"
+      ],
+      "potato": [
+        "nervous",
+        "sweating"
+      ],
+      "parsnip": [
+        "towering",
+        "mystical"
+      ]
+    },
+    "position": "Potato hiding behind Parsnip"
+  },
+  {
+    "prompt": "Hyperrealistic digital painting of a golden potato, a vibrant orange carrot, and a pale white parsnip resting on a marble slab.",
+    "subject": [
+      "carrot",
+      "potato",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "potato": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "vibrant orange"
+      ],
+      "potato": [
+        "golden"
+      ],
+      "parsnip": [
+        "pale white"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surrealist bronze sculpture: a massive parsnip skewering a tiny, frightened potato, balanced precariously on the tip of a cracked carrot.",
+    "subject": [
+      "carrot",
+      "potato",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "potato": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "cracked"
+      ],
+      "potato": [
+        "tiny",
+        "frightened"
+      ],
+      "parsnip": [
+        "massive"
+      ]
+    },
+    "position": "Parsnip skewering Potato, structure balanced on Carrot"
+  },
+  {
+    "prompt": "Close-up macro photograph of a carrot, a potato, and a parsnip covered in frost. Cinematic lighting, photorealistic.",
+    "subject": [
+      "carrot",
+      "potato",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 1,
+      "potato": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [],
+      "potato": [],
+      "parsnip": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Retro 80s anime screenshot showing two determined carrots launching one round potato out of a giant wooden cannon made from a hollowed-out parsnip.",
+    "subject": [
+      "carrots",
+      "potato",
+      "parsnip"
+    ],
+    "count": {
+      "carrot": 2,
+      "potato": 1,
+      "parsnip": 1
+    },
+    "attribution": {
+      "carrot": [
+        "determined"
+      ],
+      "potato": [
+        "round"
+      ],
+      "parsnip": [
+        "giant",
+        "wooden",
+        "hollowed-out"
+      ]
+    },
+    "position": "Potato launched from Parsnip"
+  },
+  {
+    "prompt": "A jovial, enormous watermelon wearing a tiny, cracked coconut hat, standing proudly on top of a perfectly spherical, glowing muskmelon. Highly detailed digital art.",
+    "subject": [
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "jovial",
+        "enormous"
+      ],
+      "muskmelon": [
+        "perfectly spherical",
+        "glowing"
+      ],
+      "coconut": [
+        "tiny",
+        "cracked",
+        "hat"
+      ]
+    },
+    "position": "Watermelon on top of Muskmelon, Coconut on Watermelon."
+  },
+  {
+    "prompt": "A classic oil painting of a fresh watermelon, a halved muskmelon, and a whole coconut arranged on a dark wooden table.",
+    "subject": [
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "fresh"
+      ],
+      "muskmelon": [
+        "halved"
+      ],
+      "coconut": [
+        "whole"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "In a vibrant jungle, a rough coconut rolls aggressively towards a massive, striped watermelon while a small muskmelon hides behind the watermelon's shadow. Cinematic lighting.",
+    "subject": [
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "massive",
+        "striped"
+      ],
+      "muskmelon": [
+        "small"
+      ],
+      "coconut": [
+        "rough"
+      ]
+    },
+    "position": "Muskmelon behind Watermelon, Coconut rolling towards Watermelon."
+  },
+  {
+    "prompt": "Close-up macro photography of a shattered watermelon and the pale interior of an aged muskmelon. A single, perfectly smooth coconut rests nearby.",
+    "subject": [
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "shattered"
+      ],
+      "muskmelon": [
+        "pale interior",
+        "aged"
+      ],
+      "coconut": [
+        "single",
+        "perfectly smooth"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A coconut balances precariously on the edge of a tall watermelon, lifted by a tether attached to a jumping muskmelon. Simple sketch, black and white.",
+    "subject": [
+      "watermelon",
+      "muskmelon",
+      "coconut"
+    ],
+    "count": {
+      "watermelon": 1,
+      "muskmelon": 1,
+      "coconut": 1
+    },
+    "attribution": {
+      "watermelon": [
+        "tall"
+      ],
+      "muskmelon": [
+        "jumping"
+      ],
+      "coconut": [
+        "precariously balancing"
+      ]
+    },
+    "position": "Coconut balances on Watermelon, Muskmelon lifting Coconut."
+  },
+  {
+    "prompt": "A rusty vintage bus behind a sleek black futuristic car. A battered neon motorcycle speeds past on a wet cyberpunk street.",
+    "subject": [
+      "bus",
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "bus": 1,
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "bus": [
+        "rusty",
+        "vintage"
+      ],
+      "car": [
+        "sleek",
+        "black",
+        "futuristic"
+      ],
+      "motorcycle": [
+        "battered",
+        "neon"
+      ]
+    },
+    "position": "bus behind car"
+  },
+  {
+    "prompt": "Three vehicles racing down the highway: a generic yellow school bus, a compact blue car, and a standard street motorcycle.",
+    "subject": [
+      "bus",
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "bus": 1,
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "bus": [
+        "yellow",
+        "school"
+      ],
+      "car": [
+        "compact",
+        "blue"
+      ],
+      "motorcycle": [
+        "standard",
+        "street"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surreal oil painting: A massive floating passenger bus balances on the roof of a small toy car. A golden winged motorcycle hovers above.",
+    "subject": [
+      "bus",
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "bus": 1,
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "bus": [
+        "massive",
+        "floating",
+        "passenger"
+      ],
+      "car": [
+        "small",
+        "toy"
+      ],
+      "motorcycle": [
+        "golden",
+        "winged"
+      ]
+    },
+    "position": "bus on car roof, motorcycle hovering above"
+  },
+  {
+    "prompt": "An illustration of a regular bus, a standard car, and a simple motorcycle driving across a cracked Martian landscape, 4K render.",
+    "subject": [
+      "bus",
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "bus": 1,
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "bus": [
+        "regular"
+      ],
+      "car": [
+        "standard"
+      ],
+      "motorcycle": [
+        "simple"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A battered city bus crushes a ruined sedan car. A lone survivor speeds away on a dirt-covered off-road motorcycle in a zombie apocalypse scene.",
+    "subject": [
+      "bus",
+      "car",
+      "motorcycle"
+    ],
+    "count": {
+      "bus": 1,
+      "car": 1,
+      "motorcycle": 1
+    },
+    "attribution": {
+      "bus": [
+        "battered",
+        "city"
+      ],
+      "car": [
+        "ruined",
+        "sedan"
+      ],
+      "motorcycle": [
+        "dirt-covered",
+        "off-road"
+      ]
+    },
+    "position": "bus crushing car"
+  },
+  {
+    "prompt": "Dew-covered crisp red apple, perfectly ripe bright yellow lemon, and segmented juicy naval orange resting on a worn wooden table.",
+    "subject": [
+      "lemon",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "lemon": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "lemon": [
+        "perfectly ripe",
+        "bright yellow"
+      ],
+      "apple": [
+        "dew-covered",
+        "crisp",
+        "red"
+      ],
+      "orange": [
+        "segmented",
+        "juicy",
+        "naval"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A cheerful orange chases a mischievous cartoon lemon rolling away from a grumpy green apple, pausing to high-five it.",
+    "subject": [
+      "lemon",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "lemon": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "lemon": [
+        "mischievous",
+        "cartoon"
+      ],
+      "apple": [
+        "grumpy",
+        "green"
+      ],
+      "orange": [
+        "cheerful"
+      ]
+    },
+    "position": "Lemon rolling away from Apple; Orange chasing Lemon"
+  },
+  {
+    "prompt": "An ethereal digital painting depicting a lemon, an orange, and an apple floating weightlessly inside a massive glass bubble in outer space, bathed in nebula light.",
+    "subject": [
+      "lemon",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "lemon": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "lemon": [],
+      "apple": [],
+      "orange": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Minimalist 1950s travel poster: A bold sliced orange rests atop a small perfectly round lemon. A large glossy Granny Smith apple leans against them.",
+    "subject": [
+      "lemon",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "lemon": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "lemon": [
+        "small",
+        "perfectly round"
+      ],
+      "apple": [
+        "large",
+        "glossy",
+        "Granny Smith"
+      ],
+      "orange": [
+        "bold",
+        "sliced"
+      ]
+    },
+    "position": "Orange atop Lemon; Apple leaning against Lemon and Orange"
+  },
+  {
+    "prompt": "A deeply dramatic chiaroscuro photograph capturing a partially peeled orange next to an apple and a bright lemon, dimly lit by a single candle flame.",
+    "subject": [
+      "lemon",
+      "apple",
+      "orange"
+    ],
+    "count": {
+      "lemon": 1,
+      "apple": 1,
+      "orange": 1
+    },
+    "attribution": {
+      "lemon": [
+        "bright"
+      ],
+      "apple": [],
+      "orange": [
+        "partially peeled"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Cinematic photograph of a heroic Canadian goose, with a tiny terrified chicken hiding behind it, leading a bewildered mallard duck.",
+    "subject": [
+      "chicken",
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "chicken": [
+        "tiny",
+        "terrified",
+        "hides"
+      ],
+      "duck": [
+        "bewildered",
+        "mallard"
+      ],
+      "goose": [
+        "cinematic",
+        "heroic",
+        "Canadian",
+        "leading"
+      ]
+    },
+    "position": "chicken hides behind goose; goose leading duck"
+  },
+  {
+    "prompt": "Minimalist watercolor concept art depicting a chicken, a Peking duck, and a snow goose standing on a lonely pier at sunset.",
+    "subject": [
+      "chicken",
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "chicken": [],
+      "duck": [
+        "Peking"
+      ],
+      "goose": [
+        "snow"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Steampunk illustration of a fierce bantam chicken riding a giant clockwork duck, chasing an enormous robotic goose.",
+    "subject": [
+      "chicken",
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "chicken": [
+        "fierce",
+        "bantam",
+        "riding"
+      ],
+      "duck": [
+        "giant",
+        "clockwork",
+        "chasing"
+      ],
+      "goose": [
+        "enormous",
+        "robotic"
+      ]
+    },
+    "position": "chicken riding duck; duck chasing goose"
+  },
+  {
+    "prompt": "Macro photograph of a wet chicken perched on a small domestic duck, standing beneath a grumpy grey goose.",
+    "subject": [
+      "chicken",
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "chicken": [
+        "wet",
+        "perched"
+      ],
+      "duck": [
+        "small",
+        "domestic"
+      ],
+      "goose": [
+        "grumpy",
+        "grey"
+      ]
+    },
+    "position": "chicken perched on duck; duck beneath goose"
+  },
+  {
+    "prompt": "Highly detailed oil painting by Hieronymus Bosch, showing a crested chicken, a dark musk duck, and a demonic black goose wandering a hellish forest.",
+    "subject": [
+      "chicken",
+      "duck",
+      "goose"
+    ],
+    "count": {
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1
+    },
+    "attribution": {
+      "chicken": [
+        "highly detailed",
+        "crested",
+        "wandering"
+      ],
+      "duck": [
+        "highly detailed",
+        "dark musk",
+        "wandering"
+      ],
+      "goose": [
+        "highly detailed",
+        "demonic black",
+        "wandering"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A grizzled golden retriever nose-to-nose with a sleek Siamese cat, while a fluffy dwarf rabbit trembles under the dog's chin.",
+    "subject": [
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "count": {
+      "dog": 1,
+      "cat": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "dog": [
+        "grizzled",
+        "golden retriever"
+      ],
+      "cat": [
+        "sleek",
+        "Siamese"
+      ],
+      "rabbit": [
+        "fluffy",
+        "dwarf",
+        "trembles"
+      ]
+    },
+    "position": "rabbit under dog; dog nose-to-nose with cat"
+  },
+  {
+    "prompt": "A low-poly digital sculpture depicting a simple husky dog, a striped tabby cat, and a brown field rabbit floating in a cosmic void, rendered in vibrant neon colors.",
+    "subject": [
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "count": {
+      "dog": 1,
+      "cat": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "dog": [
+        "husky"
+      ],
+      "cat": [
+        "striped tabby"
+      ],
+      "rabbit": [
+        "brown field"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A clumsy Bernese mountain dog chases a tiny Holland Lop rabbit, watched by a fat striped ginger cat on a sofa cushion.",
+    "subject": [
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "count": {
+      "dog": 1,
+      "cat": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "dog": [
+        "clumsy",
+        "Bernese mountain",
+        "chases"
+      ],
+      "cat": [
+        "fat",
+        "striped ginger",
+        "watched"
+      ],
+      "rabbit": [
+        "tiny",
+        "Holland Lop"
+      ]
+    },
+    "position": "dog chases rabbit; cat watching"
+  },
+  {
+    "prompt": "Hyper-realistic chiaroscuro oil painting of a mournful dog, a calm domestic cat, and a small rabbit resting inside a wooden crate.",
+    "subject": [
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "count": {
+      "dog": 1,
+      "cat": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "dog": [
+        "mournful"
+      ],
+      "cat": [
+        "calm",
+        "domestic"
+      ],
+      "rabbit": [
+        "small"
+      ]
+    },
+    "position": "Resting together"
+  },
+  {
+    "prompt": "A vintage 1950s photograph showing a simple dog, a cat, and a rabbit sitting on a park bench during autumn.",
+    "subject": [
+      "dog",
+      "cat",
+      "rabbit"
+    ],
+    "count": {
+      "dog": 1,
+      "cat": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "dog": [],
+      "cat": [],
+      "rabbit": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A massive, weary cow stands, a terrified sheep hides behind it, and a horned black goat watches from a rocky ledge. Cinematic photograph, volumetric lighting.",
+    "subject": [
+      "cow",
+      "sheep",
+      "goat"
+    ],
+    "count": {
+      "cow": 1,
+      "sheep": 1,
+      "goat": 1
+    },
+    "attribution": {
+      "cow": [
+        "massive",
+        "weary"
+      ],
+      "sheep": [
+        "terrified"
+      ],
+      "goat": [
+        "horned",
+        "black"
+      ]
+    },
+    "position": "sheep hides behind cow"
+  },
+  {
+    "prompt": "A vibrant, surreal oil painting depicting a cow floating near a small sheep and a golden goat amidst nebulae.",
+    "subject": [
+      "cow",
+      "sheep",
+      "goat"
+    ],
+    "count": {
+      "cow": 1,
+      "sheep": 1,
+      "goat": 1
+    },
+    "attribution": {
+      "cow": [],
+      "sheep": [
+        "small"
+      ],
+      "goat": [
+        "golden"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Clumsy young cow chasing two nervous sheep across a field. Watchful goat on a hay bale. Detailed watercolor illustration.",
+    "subject": [
+      "cow",
+      "sheep",
+      "goat"
+    ],
+    "count": {
+      "cow": 1,
+      "sheep": 2,
+      "goat": 1
+    },
+    "attribution": {
+      "cow": [
+        "clumsy",
+        "young"
+      ],
+      "sheep": [
+        "nervous"
+      ],
+      "goat": [
+        "watchful"
+      ]
+    },
+    "position": "cow chasing sheep"
+  },
+  {
+    "prompt": "A sepia-toned Da Vinci sketch depicting a cow, a sheep, and a goat interacting casually by a riverbank. Renaissance art style.",
+    "subject": [
+      "cow",
+      "sheep",
+      "goat"
+    ],
+    "count": {
+      "cow": 1,
+      "sheep": 1,
+      "goat": 1
+    },
+    "attribution": {
+      "cow": [],
+      "sheep": [],
+      "goat": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Photorealistic image of a tiny goat carrying a heavy, plaid-covered cow on its back. Two large, friendly sheep walk alongside them.",
+    "subject": [
+      "cow",
+      "sheep",
+      "goat"
+    ],
+    "count": {
+      "cow": 1,
+      "sheep": 2,
+      "goat": 1
+    },
+    "attribution": {
+      "cow": [
+        "heavy",
+        "plaid-covered"
+      ],
+      "sheep": [
+        "large",
+        "friendly"
+      ],
+      "goat": [
+        "tiny"
+      ]
+    },
+    "position": "goat carrying cow on its back, sheep alongside them"
+  },
+  {
+    "prompt": "Cinematic oil painting: Heroic armored pig stands atop a massive, stoic war cow. A small, anxious sheep hides behind them. Smoky battlefield.",
+    "subject": [
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "count": {
+      "pig": 1,
+      "cow": 1,
+      "sheep": 1
+    },
+    "attribution": {
+      "pig": [
+        "heroic",
+        "armored"
+      ],
+      "cow": [
+        "massive",
+        "stoic",
+        "war"
+      ],
+      "sheep": [
+        "small",
+        "anxious"
+      ]
+    },
+    "position": "pig atop cow, sheep hides behind them"
+  },
+  {
+    "prompt": "A simple, flat vector illustration of a pig, a cow, and a sheep standing together in a field under a bright orange sun, minimalist style.",
+    "subject": [
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "count": {
+      "pig": 1,
+      "cow": 1,
+      "sheep": 1
+    },
+    "attribution": {
+      "pig": [],
+      "cow": [],
+      "sheep": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Surreal photo of a confused pig high-fiving a small, floating blue sheep. A skeptical cow watches from the side.",
+    "subject": [
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "count": {
+      "pig": 1,
+      "cow": 1,
+      "sheep": 1
+    },
+    "attribution": {
+      "pig": [
+        "confused"
+      ],
+      "cow": [
+        "skeptical"
+      ],
+      "sheep": [
+        "small",
+        "floating",
+        "blue"
+      ]
+    },
+    "position": "pig high-fiving sheep, cow watching"
+  },
+  {
+    "prompt": "Low-key cinematic portrait of a pig, a cow, and a sheep looking directly into the camera lens, shot on 70mm film.",
+    "subject": [
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "count": {
+      "pig": 1,
+      "cow": 1,
+      "sheep": 1
+    },
+    "attribution": {
+      "pig": [],
+      "cow": [],
+      "sheep": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Dynamic Ghibli sketch: Panicked pink pig runs away from an enormous, laughing brown cow, which is chased by a determined, fluffy black sheep.",
+    "subject": [
+      "pig",
+      "cow",
+      "sheep"
+    ],
+    "count": {
+      "pig": 1,
+      "cow": 1,
+      "sheep": 1
+    },
+    "attribution": {
+      "pig": [
+        "panicked",
+        "pink"
+      ],
+      "cow": [
+        "enormous",
+        "laughing",
+        "brown"
+      ],
+      "sheep": [
+        "determined",
+        "fluffy",
+        "black"
+      ]
+    },
+    "position": "pig running away from cow, cow chased by sheep"
+  },
+  {
+    "prompt": "A hyperdetailed digital painting of an armored squirrel riding a majestic white dove, soaring above a mischievous raccoon attempting to snatch a gold watch from the paw of a nervous, clockwork rabbit.",
+    "subject": [
+      "squirrel",
+      "raccoon",
+      "rabbit"
+    ],
+    "count": {
+      "squirrel": 1,
+      "raccoon": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "squirrel": [
+        "armored",
+        "riding a majestic white dove",
+        "soaring"
+      ],
+      "rabbit": [
+        "nervous",
+        "clockwork"
+      ],
+      "raccoon": [
+        "mischievous",
+        "attempting to snatch a gold watch"
+      ]
+    },
+    "position": "Raccoon attempting to snatch watch from Rabbit"
+  },
+  {
+    "prompt": "A minimalist watercolor sketch depicting a rabbit, a squirrel, and a raccoon relaxing on a grassy verge at sunset.",
+    "subject": [
+      "rabbit",
+      "squirrel",
+      "raccoon"
+    ],
+    "count": {
+      "rabbit": 1,
+      "squirrel": 1,
+      "raccoon": 1
+    },
+    "attribution": {
+      "rabbit": [
+        "relaxing"
+      ],
+      "squirrel": [
+        "relaxing"
+      ],
+      "raccoon": [
+        "relaxing"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A 1920s sepia photograph showing a small squirrel aggressively pulling a chrome wrench away from a large, stout raccoon, while a tiny, frightened rabbit peeks out from beneath the wrench handle.",
+    "subject": [
+      "squirrel",
+      "raccoon",
+      "rabbit"
+    ],
+    "count": {
+      "squirrel": 1,
+      "raccoon": 1,
+      "rabbit": 1
+    },
+    "attribution": {
+      "squirrel": [
+        "small",
+        "aggressively pulling a chrome wrench"
+      ],
+      "rabbit": [
+        "tiny",
+        "frightened",
+        "peeks out from beneath the wrench handle"
+      ],
+      "raccoon": [
+        "large",
+        "stout"
+      ]
+    },
+    "position": "Squirrel pulling wrench away from Raccoon"
+  },
+  {
+    "prompt": "An elaborate dark academia oil painting featuring a thoughtful squirrel reading a massive leather-bound tome, an old, tired rabbit sipping tea by a fireplace, and a mysterious, masked raccoon observing the scene from deep shadows.",
+    "subject": [
+      "squirrel",
+      "rabbit",
+      "raccoon"
+    ],
+    "count": {
+      "squirrel": 1,
+      "rabbit": 1,
+      "raccoon": 1
+    },
+    "attribution": {
+      "squirrel": [
+        "thoughtful",
+        "reading a massive leather-bound tome"
+      ],
+      "rabbit": [
+        "old",
+        "tired",
+        "sipping tea"
+      ],
+      "raccoon": [
+        "mysterious",
+        "masked",
+        "observing"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "High-speed photorealistic shot of a frantic squirrel sprinting away from a large rabbit, with a small, exhausted raccoon clinging precariously to its shoulders.",
+    "subject": [
+      "squirrel",
+      "rabbit",
+      "raccoon"
+    ],
+    "count": {
+      "squirrel": 1,
+      "rabbit": 1,
+      "raccoon": 1
+    },
+    "attribution": {
+      "squirrel": [
+        "frantic",
+        "sprinting away"
+      ],
+      "rabbit": [
+        "large"
+      ],
+      "raccoon": [
+        "small",
+        "exhausted",
+        "clinging precariously"
+      ]
+    },
+    "position": "Raccoon clinging to Rabbit's shoulders, Rabbit pursuing Squirrel"
+  },
+  {
+    "prompt": "A majestic deer with golden antlers is cautiously approaching an observant woolly llama, while a massive two-humped camel stands directly behind them. Hyperdetailed digital painting, cinematic lighting.",
+    "subject": [
+      "deer",
+      "llama",
+      "camel"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1,
+      "camel": 1
+    },
+    "attribution": {
+      "deer": [
+        "majestic",
+        "golden antlers",
+        "cautiously approaching"
+      ],
+      "llama": [
+        "observant",
+        "woolly"
+      ],
+      "camel": [
+        "massive",
+        "two-humped",
+        "standing behind"
+      ]
+    },
+    "position": "Camel stands directly behind the deer and llama"
+  },
+  {
+    "prompt": "A vintage illustration from a 1950s children's book showing a deer, a llama, and a camel relaxing peacefully beside a small desert oasis at dusk. Soft colors, thin black outlines.",
+    "subject": [
+      "deer",
+      "llama",
+      "camel"
+    ],
+    "count": {
+      "deer": 1,
+      "llama": 1,
+      "camel": 1
+    },
+    "attribution": {
+      "deer": [
+        "relaxing peacefully"
+      ],
+      "llama": [
+        "relaxing peacefully"
+      ],
+      "camel": [
+        "relaxing peacefully"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An unsettling dark fantasy scene, in the style of Beksiński, where a shadowy, massive camel is consuming a terrified llama covered in thick green moss, while a bleached, skeletal deer floats motionlessly above the ritual.",
+    "subject": [
+      "camel",
+      "llama",
+      "deer"
+    ],
+    "count": {
+      "camel": 1,
+      "llama": 1,
+      "deer": 1
+    },
+    "attribution": {
+      "deer": [
+        "bleached",
+        "skeletal",
+        "floats motionlessly"
+      ],
+      "llama": [
+        "terrified",
+        "covered in thick green moss"
+      ],
+      "camel": [
+        "shadowy",
+        "massive",
+        "consuming"
+      ]
+    },
+    "position": "Camel is consuming the llama; deer floats above the ritual"
+  },
+  {
+    "prompt": "A colorful Japanese Ukiyo-e woodblock print depicting a noble hunter sitting atop a stoic, decorated camel, observing a nimble deer mid-jump over a rushing stream, while a startled llama looks on from the background foliage.",
+    "subject": [
+      "camel",
+      "deer",
+      "llama"
+    ],
+    "count": {
+      "camel": 1,
+      "deer": 1,
+      "llama": 1
+    },
+    "attribution": {
+      "deer": [
+        "nimble",
+        "mid-jump"
+      ],
+      "llama": [
+        "startled",
+        "looks on"
+      ],
+      "camel": [
+        "stoic",
+        "decorated",
+        "being ridden"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A brightly lit 3D claymation scene. A huge, perpetually happy llama gently holds a tiny, confused deer, standing next to a medium-sized camel balancing an impossible tower of tropical fruit on its hump.",
+    "subject": [
+      "llama",
+      "deer",
+      "camel"
+    ],
+    "count": {
+      "llama": 1,
+      "deer": 1,
+      "camel": 1
+    },
+    "attribution": {
+      "deer": [
+        "tiny",
+        "confused",
+        "being held"
+      ],
+      "llama": [
+        "huge",
+        "perpetually happy",
+        "gently holding the deer"
+      ],
+      "camel": [
+        "medium-sized",
+        "balancing an impossible tower of tropical fruit"
+      ]
+    },
+    "position": "Llama is holding the deer, standing next to the camel"
+  },
+  {
+    "prompt": "Hyper-realistic photo of a massive great white shark breaching, chasing a shimmering acrobatic dolphin, above a gentle mottled manatee.",
+    "subject": [
+      "shark",
+      "dolphin",
+      "manatee"
+    ],
+    "count": {
+      "shark": 1,
+      "dolphin": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "shark": [
+        "Hyper-realistic",
+        "massive",
+        "great white",
+        "breaching",
+        "chasing"
+      ],
+      "dolphin": [
+        "shimmering",
+        "acrobatic"
+      ],
+      "manatee": [
+        "gentle",
+        "mottled"
+      ]
+    },
+    "position": "shark chasing dolphin; manatee beneath"
+  },
+  {
+    "prompt": "A vibrant, 1980s synthwave illustration showing a blue shark, a dolphin, and a peaceful manatee floating together in purple neon space.",
+    "subject": [
+      "shark",
+      "dolphin",
+      "manatee"
+    ],
+    "count": {
+      "shark": 1,
+      "dolphin": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "shark": [
+        "vibrant",
+        "1980s synthwave",
+        "blue"
+      ],
+      "dolphin": [],
+      "manatee": [
+        "peaceful"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Cinematic dark fantasy painting of a giant moss-covered Manatee holding a struggling razor-toothed shark, while a curious dolphin circles above them.",
+    "subject": [
+      "shark",
+      "dolphin",
+      "Manatee"
+    ],
+    "count": {
+      "shark": 1,
+      "dolphin": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "shark": [
+        "struggling",
+        "razor-toothed"
+      ],
+      "dolphin": [
+        "curious"
+      ],
+      "Manatee": [
+        "Cinematic dark fantasy",
+        "giant",
+        "moss-covered",
+        "holding"
+      ]
+    },
+    "position": "manatee holding shark"
+  },
+  {
+    "prompt": "An abstract metallic sculpture of a hammerhead shark placed directly next to a bottlenose dolphin, with a plump manatee resting behind the pair.",
+    "subject": [
+      "shark",
+      "dolphin",
+      "manatee"
+    ],
+    "count": {
+      "shark": 1,
+      "dolphin": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "shark": [
+        "abstract metallic",
+        "hammerhead"
+      ],
+      "dolphin": [
+        "abstract metallic",
+        "bottlenose"
+      ],
+      "manatee": [
+        "abstract metallic",
+        "plump",
+        "resting"
+      ]
+    },
+    "position": "shark next to dolphin; manatee behind"
+  },
+  {
+    "prompt": "A vibrant watercolor concept sketch of a reef scene featuring a basking shark, a joyful dolphin, and a single, shy manatee guarding an open treasure chest.",
+    "subject": [
+      "shark",
+      "dolphin",
+      "manatee"
+    ],
+    "count": {
+      "shark": 1,
+      "dolphin": 1,
+      "manatee": 1
+    },
+    "attribution": {
+      "shark": [
+        "vibrant watercolor",
+        "basking"
+      ],
+      "dolphin": [
+        "vibrant watercolor",
+        "joyful"
+      ],
+      "manatee": [
+        "vibrant watercolor",
+        "single",
+        "shy",
+        "guarding"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "A majestic striped zebra stands next to a massive Clydesdale horse, with a graceful, towering giraffe peering over them. Van Gogh's Starry Night style.",
+    "subject": [
+      "zebra",
+      "horse",
+      "giraffe"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1,
+      "giraffe": 1
+    },
+    "attribution": {
+      "zebra": [
+        "majestic",
+        "striped"
+      ],
+      "horse": [
+        "massive",
+        "Clydesdale"
+      ],
+      "giraffe": [
+        "graceful",
+        "towering",
+        "peering over them",
+        "Van Gogh's Starry Night style"
+      ]
+    },
+    "position": "Zebra next to horse, giraffe peering over them"
+  },
+  {
+    "prompt": "Three silhouettes of a zebra, a horse, and a giraffe grazing under the setting sun in the savanna, photorealistic.",
+    "subject": [
+      "zebra",
+      "horse",
+      "giraffe"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1,
+      "giraffe": 1
+    },
+    "attribution": {
+      "zebra": [
+        "silhouettes",
+        "grazing",
+        "photorealistic"
+      ],
+      "horse": [
+        "silhouettes",
+        "grazing",
+        "photorealistic"
+      ],
+      "giraffe": [
+        "silhouettes",
+        "grazing",
+        "photorealistic"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "An iridescent zebra fiercely chasing a galloping white horse, which hides behind a giant crystallized giraffe statue in a neon cyberpunk city.",
+    "subject": [
+      "zebra",
+      "horse",
+      "giraffe statue"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1,
+      "giraffe": 1
+    },
+    "attribution": {
+      "zebra": [
+        "iridescent",
+        "fiercely chasing"
+      ],
+      "horse": [
+        "galloping",
+        "white",
+        "hides behind"
+      ],
+      "giraffe statue": [
+        "giant",
+        "crystallized",
+        "neon cyberpunk city"
+      ]
+    },
+    "position": "Zebra chasing horse, horse behind giraffe statue"
+  },
+  {
+    "prompt": "Soft watercolor painting of a nervous brown horse standing near a friendly playful zebra, and a curious smiling giraffe, huddled together in rainforest mist.",
+    "subject": [
+      "zebra",
+      "horse",
+      "giraffe"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1,
+      "giraffe": 1
+    },
+    "attribution": {
+      "zebra": [
+        "friendly",
+        "playful"
+      ],
+      "horse": [
+        "soft watercolor",
+        "nervous",
+        "brown"
+      ],
+      "giraffe": [
+        "curious",
+        "smiling"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Extreme close-up, 8K. A baby giraffe balanced on the back of a muscular draft horse, guarded by a scarred veteran zebra in front.",
+    "subject": [
+      "zebra",
+      "horse",
+      "giraffe"
+    ],
+    "count": {
+      "zebra": 1,
+      "horse": 1,
+      "giraffe": 1
+    },
+    "attribution": {
+      "zebra": [
+        "scarred",
+        "veteran",
+        "guarded",
+        "in front"
+      ],
+      "horse": [
+        "muscular",
+        "draft"
+      ],
+      "giraffe": [
+        "baby",
+        "balanced on the back of"
+      ]
+    },
+    "position": "Giraffe balanced on back of horse, zebra guarding from the front"
+  },
+  {
+    "prompt": "Macro photograph of an enormous emerald-green frog examining a terrified, coiled jungle python snake hiding behind a tiny beaded desert lizard.",
+    "subject": [
+      "snake",
+      "lizard",
+      "frog"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1,
+      "frog": 1
+    },
+    "attribution": {
+      "snake": [
+        "terrified",
+        "coiled",
+        "jungle",
+        "python",
+        "hiding"
+      ],
+      "lizard": [
+        "tiny",
+        "beaded",
+        "desert"
+      ],
+      "frog": [
+        "enormous",
+        "emerald-green",
+        "examining"
+      ]
+    },
+    "position": "Frog examining snake; Snake behind lizard"
+  },
+  {
+    "prompt": "A beautiful Art Nouveau stained-glass illustration featuring a snake, a lizard, and a frog floating among stylized water lilies.",
+    "subject": [
+      "snake",
+      "lizard",
+      "frog"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1,
+      "frog": 1
+    },
+    "attribution": {
+      "snake": [],
+      "lizard": [],
+      "frog": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "Vibrant watercolor sketch of a confused horned lizard sitting on the head of a massive anaconda snake, while a small, angry poison dart frog jumps towards them.",
+    "subject": [
+      "snake",
+      "lizard",
+      "frog"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1,
+      "frog": 1
+    },
+    "attribution": {
+      "snake": [
+        "massive",
+        "anaconda"
+      ],
+      "lizard": [
+        "confused",
+        "horned",
+        "sitting"
+      ],
+      "frog": [
+        "small",
+        "angry",
+        "poison dart",
+        "jumps"
+      ]
+    },
+    "position": "Lizard sitting on snake; Frog jumping towards them"
+  },
+  {
+    "prompt": "Moody desert shot featuring a long king snake slithering past two speedy geckos and a camouflaged frog hiding in the sand.",
+    "subject": [
+      "snake",
+      "geckos",
+      "frog"
+    ],
+    "count": {
+      "snake": 1,
+      "geckos": 2,
+      "frog": 1
+    },
+    "attribution": {
+      "snake": [
+        "long",
+        "king",
+        "slithering"
+      ],
+      "geckos": [
+        "speedy"
+      ],
+      "frog": [
+        "camouflaged",
+        "hiding"
+      ]
+    },
+    "position": null
+  },
+  {
+    "prompt": "Cinematic volumetric lighting, showing a Leopard Gecko lizard battling a fearsome two-headed viper snake holding a terrified, golden tree frog hostage.",
+    "subject": [
+      "snake",
+      "lizard",
+      "frog"
+    ],
+    "count": {
+      "snake": 1,
+      "lizard": 1,
+      "frog": 1
+    },
+    "attribution": {
+      "snake": [
+        "fearsome",
+        "two-headed",
+        "viper",
+        "holding"
+      ],
+      "lizard": [
+        "Leopard Gecko"
+      ],
+      "frog": [
+        "terrified",
+        "golden",
+        "tree frog",
+        "hostage"
+      ]
+    },
+    "position": "Lizard battling snake; Snake holding frog"
+  },
+  {
+    "prompt": "A sleek, low-rider classic car with a fixed-gear racing bicycle on its roof rack speeding past a rusty, heavily customized motorcycle.",
+    "subject": [
+      "car",
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "car": [
+        "sleek",
+        "low-rider",
+        "classic"
+      ],
+      "motorcycle": [
+        "rusty",
+        "heavily customized"
+      ],
+      "bicycle": [
+        "fixed-gear",
+        "racing"
+      ]
+    },
+    "position": "Bicycle on car, Car speeding past motorcycle"
+  },
+  {
+    "prompt": "A neon synthwave rendering of an abandoned car, a motorcycle, and a bicycle resting silently on a desert highway at sunset.",
+    "subject": [
+      "car",
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "car": [
+        "abandoned"
+      ],
+      "motorcycle": [],
+      "bicycle": []
+    },
+    "position": null
+  },
+  {
+    "prompt": "A colossal, chrome-plated futuristic car hovering above a simple dirt bicycle and a standard black police motorcycle.",
+    "subject": [
+      "car",
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "car": [
+        "colossal",
+        "chrome-plated",
+        "futuristic"
+      ],
+      "motorcycle": [
+        "standard",
+        "black",
+        "police"
+      ],
+      "bicycle": [
+        "simple",
+        "dirt"
+      ]
+    },
+    "position": "Car hovering above bicycle and motorcycle"
+  },
+  {
+    "prompt": "Sepia photograph of a frantic delivery messenger on an old-fashioned bicycle weaving between a massive articulated cargo car and a bulky sidecar motorcycle.",
+    "subject": [
+      "car",
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "car": [
+        "massive",
+        "articulated",
+        "cargo"
+      ],
+      "motorcycle": [
+        "bulky",
+        "sidecar"
+      ],
+      "bicycle": [
+        "old-fashioned"
+      ]
+    },
+    "position": "Bicycle weaving between car and motorcycle"
+  },
+  {
+    "prompt": "Low-angle cinematic shot of a damaged Mad Max-style armored car driving towards the viewer, flanked by a grinning, spiked stunt motorcycle and a skeleton riding a blood-red mountain bicycle.",
+    "subject": [
+      "car",
+      "motorcycle",
+      "bicycle"
+    ],
+    "count": {
+      "car": 1,
+      "motorcycle": 1,
+      "bicycle": 1
+    },
+    "attribution": {
+      "car": [
+        "damaged",
+        "Mad Max-style",
+        "armored"
+      ],
+      "motorcycle": [
+        "grinning",
+        "spiked",
+        "stunt"
+      ],
+      "bicycle": [
+        "blood-red",
+        "mountain"
+      ]
+    },
+    "position": "Motorcycle flanking car"
+  }
+]

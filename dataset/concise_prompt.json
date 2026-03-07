@@ -1,0 +1,722 @@
+[
+    {
+        "prompt": "a bear and a panda",
+        "subject": [
+            "bear",
+            "panda"
+        ]
+    },
+    {
+        "prompt": "a bike and a scooter",
+        "subject": [
+            "bike",
+            "scooter"
+        ]
+    },
+    {
+        "prompt": "a bird and a bear",
+        "subject": [
+            "bird",
+            "bear"
+        ]
+    },
+    {
+        "prompt": "a car and a motorcycle",
+        "subject": [
+            "car",
+            "motorcycle"
+        ]
+    },
+    {
+        "prompt": "a cat and a dog",
+        "subject": [
+            "cat",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a cat and a tiger",
+        "subject": [
+            "cat",
+            "tiger"
+        ]
+    },
+    {
+        "prompt": "a deer and a llama",
+        "subject": [
+            "deer",
+            "llama"
+        ]
+    },
+    {
+        "prompt": "a dog and a horse",
+        "subject": [
+            "dog",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a frog and a lizard",
+        "subject": [
+            "frog",
+            "lizard"
+        ]
+    },
+    {
+        "prompt": "a frog and a toad",
+        "subject": [
+            "frog",
+            "toad"
+        ]
+    },
+    {
+        "prompt": "a horse and a donkey",
+        "subject": [
+            "horse",
+            "donkey"
+        ]
+    },
+    {
+        "prompt": "a rose and a tulip",
+        "subject": [
+            "rose",
+            "tulip"
+        ]
+    },
+    {
+        "prompt": "a snake and a lizard",
+        "subject": [
+            "snake",
+            "lizard"
+        ]
+    },
+    {
+        "prompt": "a whale and a manatee",
+        "subject": [
+            "whale",
+            "manatee"
+        ]
+    },
+    {
+        "prompt": "a carrot and a parsnip",
+        "subject": [
+            "carrot",
+            "parsnip"
+        ]
+    },
+    {
+        "prompt": "a cherry and a berry",
+        "subject": [
+            "cherry",
+            "berry"
+        ]
+    },
+    {
+        "prompt": "a duck and a goose",
+        "subject": [
+            "duck",
+            "goose"
+        ]
+    },
+    {
+        "prompt": "a frog and a snake",
+        "subject": [
+            "frog",
+            "snake"
+        ]
+    },
+    {
+        "prompt": "a monkey and a gorilla",
+        "subject": [
+            "monkey",
+            "gorilla"
+        ]
+    },
+    {
+        "prompt": "a motorcycle and a bicycle",
+        "subject": [
+            "motorcycle",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a muskmelon and a coconut",
+        "subject": [
+            "muskmelon",
+            "coconut"
+        ]
+    },
+    {
+        "prompt": "a peach and an apple",
+        "subject": [
+            "peach",
+            "apple"
+        ]
+    },
+    {
+        "prompt": "a scooter and a skateboard",
+        "subject": [
+            "scooter",
+            "skateboard"
+        ]
+    },
+    {
+        "prompt": "a zebra and a horse",
+        "subject": [
+            "zebra",
+            "horse"
+        ]
+    },
+    {
+        "prompt": "a helicopter and a warplane",
+        "subject": [
+            "helicopter",
+            "warplane"
+        ]
+    },
+    {
+        "prompt": "a butterfly and a bee",
+        "subject": [
+            "butterfly",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a watermelon and a coconut",
+        "subject": [
+            "watermelon",
+            "coconut"
+        ]
+    },
+    {
+        "prompt": "a potato and a yam",
+        "subject": [
+            "potato",
+            "yam"
+        ]
+    },
+    {
+        "prompt": "a pear and an apple",
+        "subject": [
+            "pear",
+            "apple"
+        ]
+    },
+    {
+        "prompt": "a daisy and a violet",
+        "subject": [
+            "daisy",
+            "violet"
+        ]
+    },
+    {
+        "prompt": "a cow and a horse and a donkey",
+        "subject": [
+            "cow",
+            "horse",
+            "donkey"
+        ]
+    },
+    {
+        "prompt": "a frog and a snake and a turtle",
+        "subject": [
+            "frog",
+            "snake",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a bear and a wolf and a fox",
+        "subject": [
+            "bear",
+            "wolf",
+            "fox"
+        ]
+    },
+    {
+        "prompt": "a cat and a tiger and a rabbit",
+        "subject": [
+            "cat",
+            "tiger",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a rose and a sunflower and a tulip",
+        "subject": [
+            "rose",
+            "sunflower",
+            "tulip"
+        ]
+    },
+    {
+        "prompt": "a bike and a scooter and a skateboard",
+        "subject": [
+            "bike",
+            "scooter",
+            "skateboard"
+        ]
+    },
+    {
+        "prompt": "a banana and an apple and an orange",
+        "subject": [
+            "banana",
+            "apple",
+            "orange"
+        ]
+    },
+    {
+        "prompt": "a bear and a lion and a tiger",
+        "subject": [
+            "bear",
+            "lion",
+            "tiger"
+        ]
+    },
+    {
+        "prompt": "a bird and a butterfly and a bee",
+        "subject": [
+            "bird",
+            "butterfly",
+            "bee"
+        ]
+    },
+    {
+        "prompt": "a carrot and a potato and an onion",
+        "subject": [
+            "carrot",
+            "potato",
+            "onion"
+        ]
+    },
+    {
+        "prompt": "a cat and a rabbit and a hamster",
+        "subject": [
+            "cat",
+            "rabbit",
+            "hamster"
+        ]
+    },
+    {
+        "prompt": "a basketball and a volleyball and a baseball",
+        "subject": [
+            "basketball",
+            "volleyball",
+            "baseball"
+        ]
+    },
+    {
+        "prompt": "a pear and an apple and a peach",
+        "subject": [
+            "pear",
+            "apple",
+            "peach"
+        ]
+    },
+    {
+        "prompt": "a tomato and an apple and a peach",
+        "subject": [
+            "tomato",
+            "apple",
+            "peach"
+        ]
+    },
+    {
+        "prompt": "a lily and a tulip and a daffodil",
+        "subject": [
+            "lily",
+            "tulip",
+            "daffodil"
+        ]
+    },
+    {
+        "prompt": "a tulip and a daffodil and a rose",
+        "subject": [
+            "tulip",
+            "daffodil",
+            "rose"
+        ]
+    },
+    {
+        "prompt": "a carrot and a potato and a parsnip",
+        "subject": [
+            "carrot",
+            "potato",
+            "parsnip"
+        ]
+    },
+    {
+        "prompt": "a watermelon and a muskmelon and a coconut",
+        "subject": [
+            "watermelon",
+            "muskmelon",
+            "coconut"
+        ]
+    },
+    {
+        "prompt": "a bus and a car and a motorcycle",
+        "subject": [
+            "bus",
+            "car",
+            "motorcycle"
+        ]
+    },
+    {
+        "prompt": "a lemon and an apple and an orange",
+        "subject": [
+            "lemon",
+            "apple",
+            "orange"
+        ]
+    },
+    {
+        "prompt": "a chicken and a duck and a goose",
+        "subject": [
+            "chicken",
+            "duck",
+            "goose"
+        ]
+    },
+    {
+        "prompt": "a dog and a cat and a rabbit",
+        "subject": [
+            "dog",
+            "cat",
+            "rabbit"
+        ]
+    },
+    {
+        "prompt": "a cow and a sheep and a goat",
+        "subject": [
+            "cow",
+            "sheep",
+            "goat"
+        ]
+    },
+    {
+        "prompt": "a pig and a cow and a sheep",
+        "subject": [
+            "pig",
+            "cow",
+            "sheep"
+        ]
+    },
+    {
+        "prompt": "a squirrel and a rabbit and a raccoon",
+        "subject": [
+            "squirrel",
+            "rabbit",
+            "raccoon"
+        ]
+    },
+    {
+        "prompt": "a deer and a llama and a camel",
+        "subject": [
+            "deer",
+            "llama",
+            "camel"
+        ]
+    },
+    {
+        "prompt": "a shark and a dolphin and a manatee",
+        "subject": [
+            "shark",
+            "dolphin",
+            "manatee"
+        ]
+    },
+    {
+        "prompt": "a zebra and a horse and a giraffe",
+        "subject": [
+            "zebra",
+            "horse",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a snake and a lizard and a frog",
+        "subject": [
+            "snake",
+            "lizard",
+            "frog"
+        ]
+    },
+    {
+        "prompt": "a car and a motorcycle and a bicycle",
+        "subject": [
+            "car",
+            "motorcycle",
+            "bicycle"
+        ]
+    },
+    {
+        "prompt": "a cow and a horse and a donkey and a cat",
+        "subject": [
+            "cow",
+            "horse",
+            "donkey",
+            "cat"
+        ]
+    },
+    {
+        "prompt": "a pear and an apple and a peach and a lemon",
+        "subject": [
+            "pear",
+            "apple",
+            "peach",
+            "lemon"
+        ]
+    },
+    {
+        "prompt": "a lion and a tiger and a bear and a wolf",
+        "subject": [
+            "lion",
+            "tiger",
+            "bear",
+            "wolf"
+        ]
+    },
+    {
+        "prompt": "a carrot and a potato and a tomato and a cucumber",
+        "subject": [
+            "carrot",
+            "potato",
+            "tomato",
+            "cucumber"
+        ]
+    },
+    {
+        "prompt": "a rose and a lily and a tulip and a daisy",
+        "subject": [
+            "rose",
+            "lily",
+            "tulip",
+            "daisy"
+        ]
+    },
+    {
+        "prompt": "a cat and a dog and a rabbit and a hamster",
+        "subject": [
+            "cat",
+            "dog",
+            "rabbit",
+            "hamster"
+        ]
+    },
+    {
+        "prompt": "a sheep and a goat and a pig and a cow",
+        "subject": [
+            "sheep",
+            "goat",
+            "pig",
+            "cow"
+        ]
+    },
+    {
+        "prompt": "a cat and a dog and a parrot and a hamster",
+        "subject": [
+            "cat",
+            "dog",
+            "parrot",
+            "hamster"
+        ]
+    },
+    {
+        "prompt": "a sunflower and a daisy and a dandelion and a tulip",
+        "subject": [
+            "sunflower",
+            "daisy",
+            "dandelion",
+            "tulip"
+        ]
+    },
+    {
+        "prompt": "a apple and a pear and a orange and a banana",
+        "subject": [
+            "apple",
+            "pear",
+            "orange",
+            "banana"
+        ]
+    },
+    {
+        "prompt": "a rabbit and a squirrel and a monkey and a hedgehog",
+        "subject": [
+            "rabbit",
+            "squirrel",
+            "monkey",
+            "hedgehog"
+        ]
+    },
+    {
+        "prompt": "a chicken and a duck and a turtle and a goose",
+        "subject": [
+            "chicken",
+            "duck",
+            "turtle",
+            "goose"
+        ]
+    },
+    {
+        "prompt": "a lemon and an apple and an orange and a strawberry",
+        "subject": [
+            "lemon",
+            "apple",
+            "orange",
+            "strawberry"
+        ]
+    },
+    {
+        "prompt": "a basketball and a volleyball and a baseball and a golfball",
+        "subject": [
+            "basketball",
+            "volleyball",
+            "baseball",
+            "golfball"
+        ]
+    },
+    {
+        "prompt": "a lily and a tulip and a daffodil and a iris",
+        "subject": [
+            "lily",
+            "tulip",
+            "daffodil",
+            "iris"
+        ]
+    },
+    {
+        "prompt": "a carrot and a potato and a parsnip and a radish",
+        "subject": [
+            "carrot",
+            "potato",
+            "parsnip",
+            "radish"
+        ]
+    },
+    {
+        "prompt": "a watermelon and a muskmelon and a coconut and a pumpkin",
+        "subject": [
+            "watermelon",
+            "muskmelon",
+            "coconut",
+            "pumpkin"
+        ]
+    },
+    {
+        "prompt": "a bike and a scooter and a skateboard and a car",
+        "subject": [
+            "bike",
+            "scooter",
+            "skateboard",
+            "car"
+        ]
+    },
+    {
+        "prompt": "a bear and a lion and a tiger and a leopard",
+        "subject": [
+            "bear",
+            "lion",
+            "tiger",
+            "leopard"
+        ]
+    },
+    {
+        "prompt": "a banana and a pineapple and a mango and a kiwi",
+        "subject": [
+            "banana",
+            "pineapple",
+            "mango",
+            "kiwi"
+        ]
+    },
+    {
+        "prompt": "a cherry and a grape and a plum and a apricot",
+        "subject": [
+            "cherry",
+            "grape",
+            "plum",
+            "apricot"
+        ]
+    },
+    {
+        "prompt": "a trumpet and a guitar and a piano and a drum",
+        "subject": [
+            "trumpet",
+            "guitar",
+            "piano",
+            "drum"
+        ]
+    },
+    {
+        "prompt": "a basketball and a soccerball and a baseball and a tennisball",
+        "subject": [
+            "basketball",
+            "soccerball",
+            "baseball",
+            "tennisball"
+        ]
+    },
+    {
+        "prompt": "a frog and a toad and a rabbit and a turtle",
+        "subject": [
+            "frog",
+            "toad",
+            "rabbit",
+            "turtle"
+        ]
+    },
+    {
+        "prompt": "a elephant and a giraffe and a rhinoceros and a dog",
+        "subject": [
+            "elephant",
+            "giraffe",
+            "rhinoceros",
+            "dog"
+        ]
+    },
+    {
+        "prompt": "a swan and a chicken and a frog and a flamingo",
+        "subject": [
+            "swan",
+            "chicken",
+            "frog",
+            "flamingo"
+        ]
+    },
+    {
+        "prompt": "a bird and a bear and a horse and a giraffe",
+        "subject": [
+            "bird",
+            "bear",
+            "horse",
+            "giraffe"
+        ]
+    },
+    {
+        "prompt": "a snake and a lizard and a spider and a crocodile",
+        "subject": [
+            "snake",
+            "lizard",
+            "spider",
+            "crocodile"
+        ]
+    },
+    {
+        "prompt": "a bus and a car and a motorcycle and a bike",
+        "subject": [
+            "bus",
+            "car",
+            "motorcycle",
+            "bike"
+        ]
+    },
+    {
+        "prompt": "a eagle and a bird and a butterfly and a bee",
+        "subject": [
+            "eagle",
+            "bird",
+            "butterfly",
+            "bee"
+        ]
+    }
+]
